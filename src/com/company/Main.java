@@ -2,6 +2,8 @@ package com.company;
 
 import com.company.objects.Object;
 
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Collections;
 import java.util.Random;
 import java.util.Vector;
@@ -9,7 +11,7 @@ import java.util.Vector;
 public class Main {
 
     public static void main(String[] args) {
-        int amount = 10;
+        int amount = 1000;
 
         // --- LEAVES --- //
         Vector<Object> leaf = new Vector<>();
@@ -66,6 +68,8 @@ public class Main {
 
         Vector<String> endPlantColors = new Vector<>();
         endPlantColors = getEnd(plantColors, amount);
+
+        getOutput(endLeaf,endScamFruits,endDirtColors,endPlantColors,amount);
     }
 
     public static Vector<String> getEnd(Vector<Object> input, int amount){
@@ -80,5 +84,21 @@ public class Main {
 
         Collections.shuffle(end,new Random());
         return end;
+    }
+
+    public static void getOutput(Vector<String> endLeaf, Vector<String> endScamFruits,
+                                 Vector<String> endDirtColors, Vector<String> endPlantColors, int amount) {
+
+        try (FileWriter output = new FileWriter("output.txt", false)) {
+            for (int i=0;i<amount;i++){
+                output.write(endLeaf.get(i) + " " + endScamFruits.get(i) + " " +
+                        endDirtColors.get(i) + " " + endPlantColors.get(i));
+                output.append('\n');
+            }
+
+            output.flush();
+        } catch (IOException ex) {
+            System.out.println(ex.getMessage());
+        }
     }
 }

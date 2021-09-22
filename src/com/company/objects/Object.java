@@ -1,10 +1,10 @@
 package com.company.objects;
 
-public class Leaf {
+public class Object {
     private String name; // Pine
     private float chance; // 0.2
 
-    public Leaf(String name, float chance) {
+    public Object(String name, float chance) {
         this.name = name;
         this.chance = chance;
     }

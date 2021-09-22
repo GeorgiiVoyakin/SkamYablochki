@@ -46,23 +46,26 @@ public class Main {
 
         // --- PLANT COLORS --- //
         Vector<Object> plantColors = new Vector<>();
-        plantColors.add(new Object("Salmon##FA8072",100));
-        plantColors.add(new Object("Crimson#DC143C",100));
-        plantColors.add(new Object("DarkRed#8B0000",100));
+        plantColors.add(new Object("Salmon##FA8072",11));
+        plantColors.add(new Object("Crimson#DC143C",7));
+        plantColors.add(new Object("DarkRed#8B0000",6));
 
-        plantColors.add(new Object("Lime#32CD32",100));
-        plantColors.add(new Object("Green#008000",100));
+        plantColors.add(new Object("Lime#32CD32",11));
+        plantColors.add(new Object("Green#008000",9));
 
-        plantColors.add(new Object("Teal#008080",100));
-        plantColors.add(new Object("Aquamarine#66CDAA",100));
+        plantColors.add(new Object("Teal#008080",11));
+        plantColors.add(new Object("Aquamarine#66CDAA",9));
 
-        plantColors.add(new Object("Indigo#4B0082",100));
-        plantColors.add(new Object("Orchid#DA70D6",100));
-        plantColors.add(new Object("Lime#32CD32",100));
+        plantColors.add(new Object("Indigo#4B0082",11));
+        plantColors.add(new Object("Orchid#DA70D6",7));
+        plantColors.add(new Object("Lime#32CD32",6));
 
-        plantColors.add(new Object("Gold#FF8C00",100));
-        plantColors.add(new Object("Silver#A9A9A9",100));
-        plantColors.add(new Object("Chocolate#A0522D",100));
+        plantColors.add(new Object("Gold#FF8C00",4));
+        plantColors.add(new Object("Silver#A9A9A9",4));
+        plantColors.add(new Object("Chocolate#A0522D",4));
+
+        Vector<String> endPlantColors = new Vector<>();
+        endPlantColors = getEnd(plantColors, amount);
     }
 
     public static Vector<String> getEnd(Vector<Object> input, int amount){

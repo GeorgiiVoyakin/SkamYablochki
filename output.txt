@@ -1,1000 +1,1000 @@
-Palm Empty Brown#8B4513 Indigo#4B0082
-Palm Empty DimGray#696969 Aquamarine#66CDAA
-Palm Empty Brown#8B4513 Lime#32CD32
-Pine Coconuts Icy#E0FFFF Lime#32CD32
-Default Empty Brown#8B4513 Lime#32CD32
-Pine Apples Brown#8B4513 Green#008000
-Default Empty Brown#8B4513 Crimson#DC143C
-Default Apples OliveDrab#6B8E23 Aquamarine#66CDAA
-Pine Apples DimGray#696969 Salmon##FA8072
-Default Bananarama Brown#8B4513 Gold#FF8C00
-Pine Coconuts OliveDrab#6B8E23 Chocolate#A0522D
-Default Flowers Brown#8B4513 Orchid#DA70D6
-Default Empty Brown#8B4513 Salmon##FA8072
-Default Empty Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 Teal#008080
-Default Apples Brown#8B4513 DarkRed#8B0000
-Palm Empty Brown#8B4513 Lime#32CD32
-Pine Empty Brown#8B4513 Orchid#DA70D6
-Default Coconuts DimGray#696969 Indigo#4B0082
-Pine Peaches DimGray#696969 Salmon##FA8072
-Palm Empty Icy#E0FFFF Teal#008080
-Pine Empty DimGray#696969 Indigo#4B0082
-Palm Bananarama Brown#8B4513 Aquamarine#66CDAA
-Default Empty OliveDrab#6B8E23 Salmon##FA8072
-Palm Coconuts Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 Silver#A9A9A9
-Spread Empty DimGray#696969 Crimson#DC143C
-Default Bananarama DimGray#696969 DarkRed#8B0000
-Default Coconuts DimGray#696969 Lime#32CD32
-Pine Bananarama DimGray#696969 Teal#008080
-Default Coconuts Brown#8B4513 Salmon##FA8072
-Pine Flowers DimGray#696969 Aquamarine#66CDAA
-Pine Apples DimGray#696969 Indigo#4B0082
-Spread Empty Brown#8B4513 Crimson#DC143C
-Default Apples Brown#8B4513 Chocolate#A0522D
-Default Apples Icy#E0FFFF Indigo#4B0082
-Pine Empty DimGray#696969 Gold#FF8C00
-Default Empty DimGray#696969 Teal#008080
-Pine Bananarama OliveDrab#6B8E23 Lime#32CD32
-Pine Bananarama Brown#8B4513 Crimson#DC143C
-Spread Apples Brown#8B4513 Teal#008080
-Palm X-Mas OliveDrab#6B8E23 Lime#32CD32
-Palm Apples Brown#8B4513 Teal#008080
-Default Bananarama Brown#8B4513 Indigo#4B0082
-Default Coconuts Brown#8B4513 Crimson#DC143C
-Spread Empty OliveDrab#6B8E23 Gold#FF8C00
-Pine Apples DimGray#696969 Indigo#4B0082
-Spread Coconuts DimGray#696969 Indigo#4B0082
-Default Empty DimGray#696969 Aquamarine#66CDAA
-Default Apples Icy#E0FFFF Salmon##FA8072
-Default Empty Brown#8B4513 Orchid#DA70D6
-Pine Apples Brown#8B4513 Silver#A9A9A9
-Default X-Mas Brown#8B4513 DarkRed#8B0000
-Default Coconuts Brown#8B4513 Salmon##FA8072
-Palm Empty DimGray#696969 Gold#FF8C00
-Pine Bananarama Brown#8B4513 Lime#32CD32
-Default Apples Icy#E0FFFF Green#008000
-Pine Apples DimGray#696969 Teal#008080
-Default Empty Brown#8B4513 Indigo#4B0082
-Default Bananarama Brown#8B4513 Lime#32CD32
-Pine Apples Brown#8B4513 Chocolate#A0522D
-Spread Apples DimGray#696969 Teal#008080
-Default Empty DimGray#696969 Green#008000
-Pine Empty Brown#8B4513 Crimson#DC143C
-Default Peaches DimGray#696969 Indigo#4B0082
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Pine Apples Brown#8B4513 DarkRed#8B0000
-Palm Peaches Brown#8B4513 DarkRed#8B0000
-Pine Peaches OliveDrab#6B8E23 Lime#32CD32
-Default Coconuts Brown#8B4513 Salmon##FA8072
-Default Empty OliveDrab#6B8E23 Orchid#DA70D6
-Default Bananarama DimGray#696969 Green#008000
-Pine Empty Brown#8B4513 Indigo#4B0082
-Default Flowers Brown#8B4513 Lime#32CD32
-Palm Bananarama Brown#8B4513 Teal#008080
-Default Apples DimGray#696969 Aquamarine#66CDAA
-Pine Bananarama Brown#8B4513 Indigo#4B0082
-Pine Empty DimGray#696969 Orchid#DA70D6
-Default Flowers OliveDrab#6B8E23 Crimson#DC143C
-Default Empty OliveDrab#6B8E23 Lime#32CD32
-Spread Empty Icy#E0FFFF Lime#32CD32
-Default Bananarama Icy#E0FFFF DarkRed#8B0000
-Pine Empty DimGray#696969 Salmon##FA8072
-Pine Peaches Icy#E0FFFF Salmon##FA8072
-Pine Flowers Brown#8B4513 Teal#008080
-Pine Coconuts DimGray#696969 Lime#32CD32
-Spread Empty Brown#8B4513 Orchid#DA70D6
-Pine Bananarama Icy#E0FFFF Indigo#4B0082
-Pine Peaches DimGray#696969 Lime#32CD32
-Pine Bananarama DimGray#696969 Salmon##FA8072
-Spread Apples Icy#E0FFFF Crimson#DC143C
-Default Apples DimGray#696969 Indigo#4B0082
-Default Coconuts Icy#E0FFFF Orchid#DA70D6
-Default Apples DimGray#696969 Gold#FF8C00
-Pine Empty Brown#8B4513 Green#008000
-Default Coconuts Brown#8B4513 Aquamarine#66CDAA
-Pine Peaches OliveDrab#6B8E23 Green#008000
-Default Apples Brown#8B4513 Lime#32CD32
-Pine Bananarama Brown#8B4513 Green#008000
-Default Apples DimGray#696969 Salmon##FA8072
-Default Empty DimGray#696969 Lime#32CD32
-Default Coconuts Brown#8B4513 Gold#FF8C00
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Pine Apples DimGray#696969 Aquamarine#66CDAA
-Default Empty DimGray#696969 Indigo#4B0082
-Pine Bananarama Brown#8B4513 Teal#008080
-Default Bananarama OliveDrab#6B8E23 Silver#A9A9A9
-Pine Peaches Brown#8B4513 DarkRed#8B0000
-Default X-Mas Icy#E0FFFF Teal#008080
-Pine Bananarama Brown#8B4513 Chocolate#A0522D
-Default Coconuts Brown#8B4513 Teal#008080
-Default X-Mas Brown#8B4513 Aquamarine#66CDAA
-Default X-Mas DimGray#696969 Gold#FF8C00
-Default Empty DimGray#696969 Indigo#4B0082
-Default Coconuts DimGray#696969 Green#008000
-Default Coconuts Brown#8B4513 Indigo#4B0082
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Default X-Mas Brown#8B4513 Lime#32CD32
-Pine Empty DimGray#696969 Lime#32CD32
-Spread Empty DimGray#696969 Chocolate#A0522D
-Pine Flowers DimGray#696969 Indigo#4B0082
-Default Apples DimGray#696969 Indigo#4B0082
-Default Bananarama DimGray#696969 Teal#008080
-Pine Bananarama Brown#8B4513 Aquamarine#66CDAA
-Default Apples Brown#8B4513 Chocolate#A0522D
-Default Bananarama DimGray#696969 Lime#32CD32
-Default Bananarama Brown#8B4513 Lime#32CD32
-Default Flowers Brown#8B4513 DarkRed#8B0000
-Default Empty Brown#8B4513 Lime#32CD32
-Default Coconuts DimGray#696969 Indigo#4B0082
-Pine X-Mas Brown#8B4513 Orchid#DA70D6
-Default Flowers DimGray#696969 Lime#32CD32
-Palm Bananarama Brown#8B4513 Crimson#DC143C
-Pine Coconuts Brown#8B4513 Aquamarine#66CDAA
-Default Bananarama Icy#E0FFFF Indigo#4B0082
-Pine Apples DimGray#696969 Indigo#4B0082
-Pine Empty Brown#8B4513 Teal#008080
-Default Bananarama Brown#8B4513 Lime#32CD32
-Default Peaches Icy#E0FFFF Indigo#4B0082
-Default Flowers Brown#8B4513 Crimson#DC143C
-Default Coconuts Brown#8B4513 Green#008000
-Default Apples DimGray#696969 Salmon##FA8072
-Pine Coconuts OliveDrab#6B8E23 DarkRed#8B0000
-Pine Bananarama Brown#8B4513 Aquamarine#66CDAA
-Default Empty Brown#8B4513 Salmon##FA8072
-Default Empty Brown#8B4513 Salmon##FA8072
-Pine Empty Brown#8B4513 Crimson#DC143C
-Default Empty Brown#8B4513 Gold#FF8C00
-Pine Coconuts DimGray#696969 Salmon##FA8072
-Default Empty Icy#E0FFFF Green#008000
-Spread Empty Brown#8B4513 Orchid#DA70D6
-Pine Empty Brown#8B4513 Indigo#4B0082
-Default Peaches Brown#8B4513 Lime#32CD32
-Palm Apples Brown#8B4513 Aquamarine#66CDAA
-Spread Peaches DimGray#696969 Chocolate#A0522D
-Default Peaches Brown#8B4513 Lime#32CD32
-Default Apples DimGray#696969 Green#008000
-Default Empty DimGray#696969 Crimson#DC143C
-Palm Apples Icy#E0FFFF Green#008000
-Pine Flowers DimGray#696969 Salmon##FA8072
-Palm Flowers DimGray#696969 Crimson#DC143C
-Default Flowers DimGray#696969 Lime#32CD32
-Pine Bananarama Brown#8B4513 Indigo#4B0082
-Palm Flowers Brown#8B4513 Teal#008080
-Pine Empty DimGray#696969 Orchid#DA70D6
-Pine Empty DimGray#696969 DarkRed#8B0000
-Default Flowers Icy#E0FFFF Chocolate#A0522D
-Default Coconuts Brown#8B4513 DarkRed#8B0000
-Pine Apples Brown#8B4513 Aquamarine#66CDAA
-Palm Bananarama Icy#E0FFFF Teal#008080
-Pine Bananarama DimGray#696969 Indigo#4B0082
-Spread Peaches Brown#8B4513 Indigo#4B0082
-Default Empty Brown#8B4513 Lime#32CD32
-Default Empty DimGray#696969 Gold#FF8C00
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Default Empty DimGray#696969 Green#008000
-Default Bananarama Brown#8B4513 Crimson#DC143C
-Pine Empty DimGray#696969 Gold#FF8C00
-Default Empty Icy#E0FFFF DarkRed#8B0000
-Pine Empty Brown#8B4513 Teal#008080
-Pine X-Mas Brown#8B4513 Indigo#4B0082
-Default Bananarama Brown#8B4513 Indigo#4B0082
-Palm Flowers DimGray#696969 Silver#A9A9A9
-Default Empty Brown#8B4513 Salmon##FA8072
-Default Apples Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 Orchid#DA70D6
-Palm Empty Brown#8B4513 Green#008000
-Pine Apples Brown#8B4513 Teal#008080
-Default Bananarama Brown#8B4513 Salmon##FA8072
-Spread X-Mas Icy#E0FFFF Orchid#DA70D6
-Default Coconuts DimGray#696969 Lime#32CD32
-Pine Empty Brown#8B4513 Teal#008080
-Default Coconuts Brown#8B4513 Lime#32CD32
-Default Peaches DimGray#696969 Lime#32CD32
-Spread Bananarama Brown#8B4513 Salmon##FA8072
-Pine Peaches Icy#E0FFFF Indigo#4B0082
-Default Apples Brown#8B4513 Indigo#4B0082
-Default Bananarama Icy#E0FFFF Salmon##FA8072
-Default Peaches DimGray#696969 Salmon##FA8072
-Pine X-Mas DimGray#696969 Lime#32CD32
-Spread Bananarama Brown#8B4513 Aquamarine#66CDAA
-Spread Empty Icy#E0FFFF Green#008000
-Default Apples Brown#8B4513 Indigo#4B0082
-Palm Peaches Brown#8B4513 Gold#FF8C00
-Palm Apples Brown#8B4513 Teal#008080
-Default Empty Brown#8B4513 DarkRed#8B0000
-Palm Empty Brown#8B4513 Gold#FF8C00
-Palm Empty Brown#8B4513 DarkRed#8B0000
-Pine Coconuts Brown#8B4513 Lime#32CD32
-Default Bananarama Brown#8B4513 Salmon##FA8072
-Default Empty OliveDrab#6B8E23 Crimson#DC143C
-Palm Empty Brown#8B4513 Salmon##FA8072
-Pine Empty Brown#8B4513 Gold#FF8C00
-Default Apples Brown#8B4513 Green#008000
-Spread Empty OliveDrab#6B8E23 Chocolate#A0522D
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Pine Empty Brown#8B4513 Silver#A9A9A9
-Default Empty OliveDrab#6B8E23 Teal#008080
-Default Bananarama Icy#E0FFFF Crimson#DC143C
-Palm Empty Brown#8B4513 Lime#32CD32
-Pine Bananarama Brown#8B4513 Lime#32CD32
-Pine Bananarama DimGray#696969 DarkRed#8B0000
-Palm Empty OliveDrab#6B8E23 Silver#A9A9A9
-Default Flowers Brown#8B4513 Indigo#4B0082
-Spread Empty OliveDrab#6B8E23 Green#008000
-Pine Apples Brown#8B4513 Aquamarine#66CDAA
-Pine Coconuts Icy#E0FFFF Indigo#4B0082
-Default Flowers DimGray#696969 Lime#32CD32
-Spread Empty Brown#8B4513 Crimson#DC143C
-Default Flowers DimGray#696969 Salmon##FA8072
-Default Empty Brown#8B4513 Green#008000
-Pine X-Mas Brown#8B4513 Silver#A9A9A9
-Default Apples OliveDrab#6B8E23 Lime#32CD32
-Spread Empty DimGray#696969 Crimson#DC143C
-Default Empty DimGray#696969 Lime#32CD32
-Palm Empty DimGray#696969 Green#008000
-Palm Empty Brown#8B4513 Gold#FF8C00
-Default Empty Brown#8B4513 Orchid#DA70D6
-Palm Empty DimGray#696969 Salmon##FA8072
-Pine Apples DimGray#696969 Teal#008080
-Pine Peaches Icy#E0FFFF Aquamarine#66CDAA
-Pine Bananarama Brown#8B4513 Salmon##FA8072
-Spread Empty Brown#8B4513 Salmon##FA8072
-Default Coconuts Brown#8B4513 Orchid#DA70D6
-Spread Empty Brown#8B4513 Lime#32CD32
-Default Peaches Brown#8B4513 Silver#A9A9A9
-Pine Empty Brown#8B4513 Green#008000
-Default Empty OliveDrab#6B8E23 Salmon##FA8072
-Pine Empty DimGray#696969 Silver#A9A9A9
-Default Empty Brown#8B4513 Salmon##FA8072
-Pine Empty DimGray#696969 DarkRed#8B0000
-Default Coconuts DimGray#696969 DarkRed#8B0000
-Pine Apples Icy#E0FFFF Lime#32CD32
-Pine Coconuts Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 Salmon##FA8072
-Palm Empty DimGray#696969 Teal#008080
-Default Flowers Brown#8B4513 Indigo#4B0082
-Spread Empty OliveDrab#6B8E23 Green#008000
-Pine Coconuts Icy#E0FFFF Teal#008080
-Default Flowers DimGray#696969 Green#008000
-Default Empty Brown#8B4513 Chocolate#A0522D
-Default Peaches Brown#8B4513 Lime#32CD32
-Default Empty Brown#8B4513 Salmon##FA8072
-Pine Bananarama Icy#E0FFFF Lime#32CD32
-Default Empty DimGray#696969 DarkRed#8B0000
-Default Peaches DimGray#696969 Lime#32CD32
-Pine Flowers DimGray#696969 Gold#FF8C00
-Default Apples DimGray#696969 Teal#008080
-Pine Coconuts DimGray#696969 Aquamarine#66CDAA
-Default Empty DimGray#696969 Chocolate#A0522D
-Default Empty DimGray#696969 Green#008000
-Default Empty Brown#8B4513 Indigo#4B0082
-Default Empty Icy#E0FFFF Orchid#DA70D6
-Default Bananarama OliveDrab#6B8E23 Lime#32CD32
-Spread Flowers DimGray#696969 DarkRed#8B0000
-Default Peaches Brown#8B4513 Lime#32CD32
-Default Bananarama DimGray#696969 Crimson#DC143C
-Pine Empty OliveDrab#6B8E23 Teal#008080
-Default Bananarama Brown#8B4513 Lime#32CD32
-Default Coconuts Brown#8B4513 Aquamarine#66CDAA
-Default Flowers DimGray#696969 Salmon##FA8072
-Default Bananarama Brown#8B4513 Orchid#DA70D6
-Default Bananarama Icy#E0FFFF Orchid#DA70D6
-Default Bananarama DimGray#696969 Chocolate#A0522D
-Default Coconuts DimGray#696969 DarkRed#8B0000
-Spread Apples DimGray#696969 Indigo#4B0082
-Pine Empty Brown#8B4513 Teal#008080
-Spread Bananarama Brown#8B4513 Indigo#4B0082
-Palm Empty Brown#8B4513 Teal#008080
-Default Flowers DimGray#696969 Orchid#DA70D6
-Pine Bananarama Brown#8B4513 Aquamarine#66CDAA
-Default Flowers OliveDrab#6B8E23 Aquamarine#66CDAA
-Default Empty Brown#8B4513 Salmon##FA8072
-Pine Empty OliveDrab#6B8E23 Aquamarine#66CDAA
-Default Apples OliveDrab#6B8E23 Aquamarine#66CDAA
-Default Apples DimGray#696969 Lime#32CD32
-Default Peaches Brown#8B4513 Teal#008080
-Default Apples DimGray#696969 Lime#32CD32
-Default Empty DimGray#696969 Teal#008080
-Default Coconuts Brown#8B4513 Orchid#DA70D6
-Default Bananarama DimGray#696969 DarkRed#8B0000
-Default Coconuts OliveDrab#6B8E23 Gold#FF8C00
-Spread Empty Brown#8B4513 Salmon##FA8072
-Pine Coconuts Brown#8B4513 Salmon##FA8072
-Pine Coconuts Brown#8B4513 Teal#008080
-Pine Coconuts Brown#8B4513 Aquamarine#66CDAA
-Default Empty Brown#8B4513 Indigo#4B0082
-Default Apples Brown#8B4513 Aquamarine#66CDAA
-Default X-Mas Brown#8B4513 Teal#008080
-Palm Empty Brown#8B4513 Indigo#4B0082
-Default Empty Brown#8B4513 DarkRed#8B0000
-Default Empty Brown#8B4513 Lime#32CD32
-Default Empty Brown#8B4513 Lime#32CD32
-Palm Peaches Brown#8B4513 DarkRed#8B0000
-Pine Empty DimGray#696969 Silver#A9A9A9
-Default Empty Brown#8B4513 Chocolate#A0522D
-Palm Apples Brown#8B4513 Teal#008080
-Pine Empty Brown#8B4513 Chocolate#A0522D
-Pine Empty Brown#8B4513 Crimson#DC143C
-Pine Apples DimGray#696969 Orchid#DA70D6
-Spread X-Mas DimGray#696969 Aquamarine#66CDAA
-Pine Empty Brown#8B4513 Orchid#DA70D6
-Spread Empty OliveDrab#6B8E23 Indigo#4B0082
-Pine Bananarama OliveDrab#6B8E23 Crimson#DC143C
-Default Apples Brown#8B4513 Crimson#DC143C
-Default Bananarama DimGray#696969 DarkRed#8B0000
-Default Bananarama Brown#8B4513 Aquamarine#66CDAA
-Default Empty Brown#8B4513 Salmon##FA8072
-Spread Empty DimGray#696969 Salmon##FA8072
-Pine Bananarama Brown#8B4513 Indigo#4B0082
-Spread Peaches Brown#8B4513 Lime#32CD32
-Palm Coconuts OliveDrab#6B8E23 Crimson#DC143C
-Pine Apples Icy#E0FFFF Lime#32CD32
-Pine Empty Icy#E0FFFF Lime#32CD32
-Palm Bananarama DimGray#696969 Silver#A9A9A9
-Default Empty Brown#8B4513 Indigo#4B0082
-Spread Flowers Brown#8B4513 DarkRed#8B0000
-Pine Coconuts DimGray#696969 Salmon##FA8072
-Default Flowers Brown#8B4513 Green#008000
-Default Apples DimGray#696969 Lime#32CD32
-Pine Empty Brown#8B4513 Aquamarine#66CDAA
-Spread Peaches Icy#E0FFFF Orchid#DA70D6
-Default Coconuts Brown#8B4513 Salmon##FA8072
-Spread Apples Brown#8B4513 Lime#32CD32
-Pine Empty DimGray#696969 DarkRed#8B0000
-Palm Empty Brown#8B4513 Orchid#DA70D6
-Default Bananarama Brown#8B4513 Salmon##FA8072
-Pine Empty Brown#8B4513 Indigo#4B0082
-Default Peaches DimGray#696969 Lime#32CD32
-Default Peaches Brown#8B4513 Green#008000
-Default Peaches DimGray#696969 Salmon##FA8072
-Default Peaches Brown#8B4513 Salmon##FA8072
-Palm Bananarama DimGray#696969 Green#008000
-Default Empty Icy#E0FFFF Aquamarine#66CDAA
-Default Empty Brown#8B4513 Orchid#DA70D6
-Pine Empty DimGray#696969 Indigo#4B0082
-Spread Empty OliveDrab#6B8E23 Teal#008080
-Default Peaches Brown#8B4513 Aquamarine#66CDAA
-Pine Empty OliveDrab#6B8E23 Teal#008080
-Default Flowers Icy#E0FFFF Salmon##FA8072
-Spread Empty Brown#8B4513 Teal#008080
-Pine Peaches Brown#8B4513 Indigo#4B0082
-Default Peaches Brown#8B4513 Lime#32CD32
-Default Apples DimGray#696969 Lime#32CD32
-Default Coconuts Brown#8B4513 Green#008000
-Palm Peaches Brown#8B4513 Silver#A9A9A9
-Spread Empty Brown#8B4513 Lime#32CD32
-Default Bananarama DimGray#696969 Salmon##FA8072
-Default Bananarama Brown#8B4513 Lime#32CD32
-Default Empty DimGray#696969 Salmon##FA8072
-Default Peaches OliveDrab#6B8E23 Silver#A9A9A9
-Pine Coconuts OliveDrab#6B8E23 Crimson#DC143C
-Default Coconuts DimGray#696969 Lime#32CD32
-Pine Flowers DimGray#696969 Gold#FF8C00
-Pine Peaches Brown#8B4513 Teal#008080
-Pine Empty Icy#E0FFFF Lime#32CD32
-Pine Bananarama Icy#E0FFFF Lime#32CD32
-Default Empty Brown#8B4513 DarkRed#8B0000
-Palm Coconuts Brown#8B4513 Green#008000
-Default Empty DimGray#696969 Indigo#4B0082
-Palm Empty Icy#E0FFFF Gold#FF8C00
-Pine Apples Icy#E0FFFF Salmon##FA8072
-Default Bananarama DimGray#696969 Green#008000
-Pine Empty DimGray#696969 Teal#008080
-Pine Empty Brown#8B4513 Green#008000
-Default Empty Icy#E0FFFF Orchid#DA70D6
-Pine Empty DimGray#696969 Orchid#DA70D6
-Default Coconuts DimGray#696969 Lime#32CD32
-Pine Bananarama Brown#8B4513 Lime#32CD32
-Pine Apples DimGray#696969 Indigo#4B0082
-Default Empty OliveDrab#6B8E23 Salmon##FA8072
-Default Coconuts DimGray#696969 Green#008000
-Default Empty Brown#8B4513 Crimson#DC143C
-Default Empty Brown#8B4513 Crimson#DC143C
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Pine X-Mas Brown#8B4513 Salmon##FA8072
-Pine Coconuts Icy#E0FFFF Green#008000
-Palm Bananarama Brown#8B4513 Indigo#4B0082
-Pine Bananarama Brown#8B4513 Crimson#DC143C
-Default Empty DimGray#696969 Teal#008080
-Spread Empty Brown#8B4513 Silver#A9A9A9
-Pine Coconuts Brown#8B4513 Aquamarine#66CDAA
-Spread Apples OliveDrab#6B8E23 DarkRed#8B0000
-Default Bananarama Brown#8B4513 Crimson#DC143C
-Default Empty Brown#8B4513 DarkRed#8B0000
-Pine Apples Icy#E0FFFF Teal#008080
-Spread Empty Brown#8B4513 DarkRed#8B0000
-Pine Apples Brown#8B4513 Lime#32CD32
-Palm Bananarama DimGray#696969 Green#008000
-Default Empty Brown#8B4513 Crimson#DC143C
-Spread Apples DimGray#696969 Lime#32CD32
-Default Bananarama Brown#8B4513 Aquamarine#66CDAA
-Pine Bananarama Icy#E0FFFF Teal#008080
-Spread Coconuts Brown#8B4513 Teal#008080
-Pine Peaches Brown#8B4513 Indigo#4B0082
-Default Empty OliveDrab#6B8E23 Lime#32CD32
-Default Empty DimGray#696969 Salmon##FA8072
-Default Empty OliveDrab#6B8E23 Lime#32CD32
-Palm Empty Brown#8B4513 Teal#008080
-Palm Empty DimGray#696969 Silver#A9A9A9
-Default Coconuts DimGray#696969 Teal#008080
-Default Empty DimGray#696969 Salmon##FA8072
-Spread Peaches Brown#8B4513 Crimson#DC143C
-Default Apples Brown#8B4513 Silver#A9A9A9
-Default Empty Brown#8B4513 Salmon##FA8072
-Default Apples Brown#8B4513 Chocolate#A0522D
-Default Empty DimGray#696969 Salmon##FA8072
-Palm Apples Brown#8B4513 DarkRed#8B0000
-Default Flowers Icy#E0FFFF Teal#008080
-Pine Empty Icy#E0FFFF Teal#008080
-Spread Empty Brown#8B4513 Gold#FF8C00
-Default Bananarama Brown#8B4513 Lime#32CD32
-Pine Bananarama Icy#E0FFFF Lime#32CD32
-Spread X-Mas Brown#8B4513 Lime#32CD32
-Default Apples Brown#8B4513 Teal#008080
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Pine Coconuts DimGray#696969 Chocolate#A0522D
-Default Empty Brown#8B4513 Lime#32CD32
-Default Bananarama DimGray#696969 Crimson#DC143C
-Default Bananarama Icy#E0FFFF Chocolate#A0522D
-Default Bananarama DimGray#696969 Teal#008080
-Default Empty DimGray#696969 Teal#008080
-Default Empty OliveDrab#6B8E23 Salmon##FA8072
-Default Coconuts Brown#8B4513 Indigo#4B0082
-Spread Flowers Brown#8B4513 Indigo#4B0082
-Pine Apples DimGray#696969 Teal#008080
-Default Apples DimGray#696969 Aquamarine#66CDAA
-Pine Empty DimGray#696969 Salmon##FA8072
-Palm Bananarama DimGray#696969 Gold#FF8C00
-Pine Peaches Brown#8B4513 DarkRed#8B0000
-Pine Peaches Brown#8B4513 Orchid#DA70D6
-Pine Empty DimGray#696969 Green#008000
-Default Bananarama Icy#E0FFFF Indigo#4B0082
-Default Peaches DimGray#696969 Chocolate#A0522D
-Default Bananarama Icy#E0FFFF Salmon##FA8072
-Pine X-Mas Brown#8B4513 Aquamarine#66CDAA
-Spread Empty Brown#8B4513 Gold#FF8C00
-Default Empty Brown#8B4513 Teal#008080
-Default Bananarama Brown#8B4513 Silver#A9A9A9
-Pine Bananarama DimGray#696969 DarkRed#8B0000
-Default Bananarama Icy#E0FFFF Salmon##FA8072
-Palm Peaches Brown#8B4513 DarkRed#8B0000
-Default Empty Icy#E0FFFF Indigo#4B0082
-Pine Coconuts Brown#8B4513 Indigo#4B0082
-Palm Coconuts Brown#8B4513 Salmon##FA8072
-Default Coconuts Brown#8B4513 Teal#008080
-Spread Apples Brown#8B4513 Lime#32CD32
-Pine Empty Brown#8B4513 Salmon##FA8072
-Spread Peaches Brown#8B4513 Aquamarine#66CDAA
-Default Bananarama Brown#8B4513 Lime#32CD32
-Default Empty Brown#8B4513 Silver#A9A9A9
-Default Bananarama DimGray#696969 Lime#32CD32
-Pine Empty OliveDrab#6B8E23 Chocolate#A0522D
-Pine Coconuts Brown#8B4513 Salmon##FA8072
-Default Empty OliveDrab#6B8E23 Chocolate#A0522D
-Pine Apples DimGray#696969 Aquamarine#66CDAA
-Palm Flowers Icy#E0FFFF Gold#FF8C00
-Pine Coconuts Brown#8B4513 Orchid#DA70D6
-Default Empty Brown#8B4513 Teal#008080
-Spread Coconuts Brown#8B4513 Crimson#DC143C
-Spread Empty DimGray#696969 Salmon##FA8072
-Default Coconuts Brown#8B4513 Salmon##FA8072
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Spread Empty Brown#8B4513 Orchid#DA70D6
-Default Empty Brown#8B4513 Chocolate#A0522D
-Pine Coconuts DimGray#696969 Indigo#4B0082
-Default Coconuts Brown#8B4513 Teal#008080
-Default Empty Brown#8B4513 Lime#32CD32
-Default Flowers DimGray#696969 Lime#32CD32
-Pine Apples Icy#E0FFFF Teal#008080
-Pine Empty Brown#8B4513 Crimson#DC143C
-Palm Apples DimGray#696969 Orchid#DA70D6
-Palm Peaches OliveDrab#6B8E23 Salmon##FA8072
-Default Coconuts Icy#E0FFFF Chocolate#A0522D
-Palm Flowers OliveDrab#6B8E23 Indigo#4B0082
-Default Peaches Brown#8B4513 Green#008000
-Default Coconuts Brown#8B4513 Green#008000
-Default Flowers DimGray#696969 Aquamarine#66CDAA
-Default Apples Brown#8B4513 Indigo#4B0082
-Palm Empty DimGray#696969 Aquamarine#66CDAA
-Spread Bananarama Brown#8B4513 Green#008000
-Default Bananarama Brown#8B4513 Teal#008080
-Default Apples DimGray#696969 Lime#32CD32
-Default Empty DimGray#696969 Indigo#4B0082
-Default Coconuts Brown#8B4513 Chocolate#A0522D
-Pine Coconuts Brown#8B4513 Green#008000
-Spread Apples Brown#8B4513 Lime#32CD32
-Default Bananarama OliveDrab#6B8E23 Crimson#DC143C
-Pine Bananarama Brown#8B4513 Aquamarine#66CDAA
-Pine Empty OliveDrab#6B8E23 Orchid#DA70D6
-Default Apples Icy#E0FFFF Silver#A9A9A9
-Spread Flowers DimGray#696969 Silver#A9A9A9
-Default Peaches Brown#8B4513 Teal#008080
-Default Empty Icy#E0FFFF Indigo#4B0082
-Pine Empty DimGray#696969 Lime#32CD32
-Default Bananarama Icy#E0FFFF Salmon##FA8072
-Pine Flowers Brown#8B4513 Lime#32CD32
-Pine Coconuts Icy#E0FFFF Gold#FF8C00
-Pine Coconuts OliveDrab#6B8E23 Orchid#DA70D6
-Pine Bananarama Brown#8B4513 Teal#008080
-Default Coconuts Brown#8B4513 Lime#32CD32
-Default Apples Brown#8B4513 DarkRed#8B0000
-Pine Empty Brown#8B4513 Chocolate#A0522D
-Palm Apples DimGray#696969 Aquamarine#66CDAA
-Pine Empty DimGray#696969 Indigo#4B0082
-Pine Coconuts Brown#8B4513 Lime#32CD32
-Default Empty Brown#8B4513 Teal#008080
-Spread Flowers Icy#E0FFFF DarkRed#8B0000
-Spread Coconuts Brown#8B4513 Green#008000
-Pine Empty DimGray#696969 Green#008000
-Default Coconuts Brown#8B4513 DarkRed#8B0000
-Default Flowers DimGray#696969 Teal#008080
-Default Coconuts OliveDrab#6B8E23 Crimson#DC143C
-Spread Peaches DimGray#696969 DarkRed#8B0000
-Spread Bananarama DimGray#696969 Silver#A9A9A9
-Default Flowers Icy#E0FFFF Lime#32CD32
-Pine Empty Brown#8B4513 Indigo#4B0082
-Default Empty DimGray#696969 Green#008000
-Pine Coconuts Icy#E0FFFF Gold#FF8C00
-Default Bananarama Icy#E0FFFF Indigo#4B0082
-Pine Empty Icy#E0FFFF Teal#008080
-Default Coconuts DimGray#696969 Aquamarine#66CDAA
-Default Empty Brown#8B4513 Lime#32CD32
-Spread Apples Icy#E0FFFF Green#008000
-Default Coconuts DimGray#696969 Lime#32CD32
-Spread Peaches OliveDrab#6B8E23 Salmon##FA8072
-Default Peaches Brown#8B4513 DarkRed#8B0000
-Pine Empty DimGray#696969 Teal#008080
-Pine Empty Brown#8B4513 Indigo#4B0082
-Pine Apples OliveDrab#6B8E23 Green#008000
-Default X-Mas OliveDrab#6B8E23 Indigo#4B0082
-Pine Bananarama Icy#E0FFFF DarkRed#8B0000
-Default Empty Brown#8B4513 Lime#32CD32
-Palm Empty DimGray#696969 Green#008000
-Default Peaches Brown#8B4513 Orchid#DA70D6
-Palm Flowers Brown#8B4513 Salmon##FA8072
-Pine Coconuts Icy#E0FFFF Salmon##FA8072
-Default Coconuts Brown#8B4513 Aquamarine#66CDAA
-Pine Flowers Brown#8B4513 Lime#32CD32
-Default Empty Icy#E0FFFF Indigo#4B0082
-Default Empty Brown#8B4513 Indigo#4B0082
-Pine Coconuts Brown#8B4513 Salmon##FA8072
-Pine Empty Brown#8B4513 Chocolate#A0522D
-Pine Apples Brown#8B4513 Green#008000
-Spread Empty Brown#8B4513 Salmon##FA8072
-Pine Apples DimGray#696969 Salmon##FA8072
-Default Bananarama Brown#8B4513 Teal#008080
-Default Empty Icy#E0FFFF Lime#32CD32
-Pine Coconuts Brown#8B4513 Aquamarine#66CDAA
-Pine Empty Icy#E0FFFF Indigo#4B0082
-Default Peaches DimGray#696969 Chocolate#A0522D
-Pine Empty DimGray#696969 Crimson#DC143C
-Default Apples OliveDrab#6B8E23 DarkRed#8B0000
-Pine Empty Brown#8B4513 Salmon##FA8072
-Spread Empty Brown#8B4513 Crimson#DC143C
-Pine Empty Brown#8B4513 Aquamarine#66CDAA
-Palm Apples Brown#8B4513 Salmon##FA8072
-Default Apples Icy#E0FFFF Green#008000
-Default Bananarama Brown#8B4513 Indigo#4B0082
-Pine Empty DimGray#696969 Silver#A9A9A9
-Spread Apples Brown#8B4513 DarkRed#8B0000
-Default Coconuts DimGray#696969 Orchid#DA70D6
-Default Bananarama DimGray#696969 Gold#FF8C00
-Pine Bananarama Icy#E0FFFF Lime#32CD32
-Pine Coconuts Brown#8B4513 Aquamarine#66CDAA
-Pine Empty Icy#E0FFFF Lime#32CD32
-Default Peaches Brown#8B4513 Teal#008080
-Default Flowers OliveDrab#6B8E23 Salmon##FA8072
-Default Bananarama Brown#8B4513 Aquamarine#66CDAA
-Default Bananarama Icy#E0FFFF Teal#008080
-Spread Apples DimGray#696969 Lime#32CD32
-Default Apples Brown#8B4513 Silver#A9A9A9
-Palm Empty DimGray#696969 Aquamarine#66CDAA
-Palm Flowers Icy#E0FFFF Aquamarine#66CDAA
-Default Coconuts DimGray#696969 Silver#A9A9A9
-Pine Coconuts Brown#8B4513 Lime#32CD32
-Pine Peaches Icy#E0FFFF Teal#008080
-Pine Bananarama DimGray#696969 Teal#008080
-Default Peaches OliveDrab#6B8E23 Green#008000
-Default Apples Brown#8B4513 Orchid#DA70D6
-Default Coconuts Brown#8B4513 Crimson#DC143C
-Default Empty Icy#E0FFFF Crimson#DC143C
-Pine Empty Brown#8B4513 Lime#32CD32
-Spread Empty Brown#8B4513 Salmon##FA8072
-Palm Flowers Icy#E0FFFF Aquamarine#66CDAA
-Pine Apples Brown#8B4513 Orchid#DA70D6
-Pine Coconuts DimGray#696969 Lime#32CD32
-Pine Apples Brown#8B4513 Salmon##FA8072
-Default Bananarama Brown#8B4513 Salmon##FA8072
-Default Bananarama OliveDrab#6B8E23 Teal#008080
-Pine Empty DimGray#696969 Orchid#DA70D6
-Default Empty DimGray#696969 Lime#32CD32
-Palm Apples Brown#8B4513 Teal#008080
-Pine Bananarama OliveDrab#6B8E23 Aquamarine#66CDAA
-Default Empty Brown#8B4513 Chocolate#A0522D
-Palm Apples Brown#8B4513 Teal#008080
-Default Peaches Brown#8B4513 Lime#32CD32
-Default Apples Brown#8B4513 Indigo#4B0082
-Default Empty Brown#8B4513 DarkRed#8B0000
-Palm Bananarama DimGray#696969 Salmon##FA8072
-Default Empty Brown#8B4513 Crimson#DC143C
-Default Empty Icy#E0FFFF Salmon##FA8072
-Default Empty DimGray#696969 DarkRed#8B0000
-Spread Flowers Brown#8B4513 Aquamarine#66CDAA
-Default Empty OliveDrab#6B8E23 Indigo#4B0082
-Spread Empty Brown#8B4513 Lime#32CD32
-Default Coconuts DimGray#696969 DarkRed#8B0000
-Pine Apples Brown#8B4513 Lime#32CD32
-Default Coconuts Brown#8B4513 Teal#008080
-Default Peaches Brown#8B4513 Crimson#DC143C
-Pine Flowers Brown#8B4513 Crimson#DC143C
-Default Peaches Brown#8B4513 Salmon##FA8072
-Palm Empty Icy#E0FFFF Orchid#DA70D6
-Default Empty Brown#8B4513 Chocolate#A0522D
-Palm Apples Brown#8B4513 Lime#32CD32
-Default Peaches Icy#E0FFFF Teal#008080
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Default Empty DimGray#696969 Indigo#4B0082
-Default Empty DimGray#696969 Gold#FF8C00
-Default Empty Icy#E0FFFF Orchid#DA70D6
-Default Empty DimGray#696969 Aquamarine#66CDAA
-Default Empty DimGray#696969 Crimson#DC143C
-Default Coconuts Brown#8B4513 Indigo#4B0082
-Default Apples Brown#8B4513 Aquamarine#66CDAA
-Pine Empty DimGray#696969 Orchid#DA70D6
-Palm Apples Brown#8B4513 Orchid#DA70D6
-Default Coconuts Brown#8B4513 Silver#A9A9A9
-Default Coconuts Brown#8B4513 Orchid#DA70D6
-Pine Coconuts OliveDrab#6B8E23 Salmon##FA8072
-Default Coconuts Icy#E0FFFF Orchid#DA70D6
-Pine Coconuts Icy#E0FFFF Lime#32CD32
-Palm Peaches OliveDrab#6B8E23 Lime#32CD32
-Pine Empty DimGray#696969 Aquamarine#66CDAA
-Pine Empty OliveDrab#6B8E23 Chocolate#A0522D
-Spread Empty DimGray#696969 Teal#008080
-Default Apples DimGray#696969 Salmon##FA8072
-Palm Empty Brown#8B4513 Indigo#4B0082
-Default X-Mas Brown#8B4513 Lime#32CD32
-Spread Empty Icy#E0FFFF Aquamarine#66CDAA
-Default Empty Brown#8B4513 Crimson#DC143C
-Default Empty Brown#8B4513 Crimson#DC143C
-Spread Empty Brown#8B4513 Salmon##FA8072
-Default Bananarama Brown#8B4513 Salmon##FA8072
-Default Empty Brown#8B4513 Green#008000
-Default Empty DimGray#696969 Teal#008080
-Pine Coconuts Brown#8B4513 Orchid#DA70D6
-Default Empty Brown#8B4513 Lime#32CD32
-Default Apples Brown#8B4513 Lime#32CD32
-Palm Flowers Brown#8B4513 DarkRed#8B0000
-Default Coconuts Brown#8B4513 Lime#32CD32
-Default Apples Brown#8B4513 Aquamarine#66CDAA
-Pine Apples Brown#8B4513 Teal#008080
-Palm Empty OliveDrab#6B8E23 Indigo#4B0082
-Pine Flowers Brown#8B4513 Lime#32CD32
-Pine Apples Brown#8B4513 Green#008000
-Default Peaches Brown#8B4513 Teal#008080
-Pine Apples Brown#8B4513 Salmon##FA8072
-Default Empty DimGray#696969 Lime#32CD32
-Pine Peaches DimGray#696969 Lime#32CD32
-Default Peaches Icy#E0FFFF DarkRed#8B0000
-Default Bananarama Brown#8B4513 Chocolate#A0522D
-Default X-Mas Brown#8B4513 Lime#32CD32
-Spread Peaches Brown#8B4513 Crimson#DC143C
-Default Bananarama Brown#8B4513 Crimson#DC143C
-Default Peaches Brown#8B4513 Lime#32CD32
-Default Apples Brown#8B4513 Indigo#4B0082
-Default Empty OliveDrab#6B8E23 Indigo#4B0082
-Pine X-Mas DimGray#696969 Lime#32CD32
-Default Peaches Brown#8B4513 Teal#008080
-Palm Coconuts Brown#8B4513 Lime#32CD32
-Pine Empty DimGray#696969 Indigo#4B0082
-Default Bananarama DimGray#696969 Aquamarine#66CDAA
-Default Peaches DimGray#696969 Silver#A9A9A9
-Default Empty DimGray#696969 Green#008000
-Pine Empty DimGray#696969 Orchid#DA70D6
-Default Coconuts OliveDrab#6B8E23 Orchid#DA70D6
-Default Flowers Brown#8B4513 Lime#32CD32
-Spread Coconuts Brown#8B4513 Crimson#DC143C
-Pine Peaches Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 Teal#008080
-Palm Peaches DimGray#696969 Lime#32CD32
-Default Coconuts Icy#E0FFFF Orchid#DA70D6
-Default Coconuts Brown#8B4513 Green#008000
-Default Coconuts DimGray#696969 Salmon##FA8072
-Spread Empty DimGray#696969 Teal#008080
-Spread Flowers Brown#8B4513 Orchid#DA70D6
-Default Coconuts DimGray#696969 Crimson#DC143C
-Default Empty Brown#8B4513 Gold#FF8C00
-Pine Bananarama Brown#8B4513 Teal#008080
-Default Bananarama OliveDrab#6B8E23 Salmon##FA8072
-Default Empty Icy#E0FFFF Gold#FF8C00
-Default Apples Brown#8B4513 DarkRed#8B0000
-Default Coconuts DimGray#696969 Lime#32CD32
-Pine Coconuts Brown#8B4513 Salmon##FA8072
-Pine Peaches Brown#8B4513 Lime#32CD32
-Pine Empty Icy#E0FFFF Orchid#DA70D6
-Default Coconuts Brown#8B4513 Chocolate#A0522D
-Palm Empty Icy#E0FFFF Indigo#4B0082
-Pine Bananarama DimGray#696969 Crimson#DC143C
-Default X-Mas DimGray#696969 Crimson#DC143C
-Pine Empty DimGray#696969 Orchid#DA70D6
-Default Bananarama DimGray#696969 Orchid#DA70D6
-Spread Empty DimGray#696969 Lime#32CD32
-Pine Coconuts Brown#8B4513 DarkRed#8B0000
-Default Apples DimGray#696969 DarkRed#8B0000
-Pine Apples DimGray#696969 Crimson#DC143C
-Pine Flowers DimGray#696969 Salmon##FA8072
-Default Peaches Icy#E0FFFF Aquamarine#66CDAA
-Spread Flowers Brown#8B4513 Green#008000
-Default Peaches Brown#8B4513 Lime#32CD32
-Default Coconuts Brown#8B4513 Salmon##FA8072
-Pine Apples Brown#8B4513 Lime#32CD32
-Default Flowers Brown#8B4513 Green#008000
-Pine Apples DimGray#696969 Crimson#DC143C
-Default Empty Brown#8B4513 Green#008000
-Default Bananarama Brown#8B4513 Lime#32CD32
-Pine Bananarama Brown#8B4513 Salmon##FA8072
-Default Coconuts Brown#8B4513 Indigo#4B0082
-Default Empty DimGray#696969 Aquamarine#66CDAA
-Spread Empty Brown#8B4513 Indigo#4B0082
-Pine Peaches Brown#8B4513 Lime#32CD32
-Pine Empty Brown#8B4513 Lime#32CD32
-Default X-Mas DimGray#696969 Gold#FF8C00
-Spread Empty OliveDrab#6B8E23 Aquamarine#66CDAA
-Default Bananarama Icy#E0FFFF Teal#008080
-Pine Bananarama DimGray#696969 Silver#A9A9A9
-Default Apples DimGray#696969 Indigo#4B0082
-Default Apples OliveDrab#6B8E23 Indigo#4B0082
-Spread Empty Icy#E0FFFF Silver#A9A9A9
-Spread Flowers DimGray#696969 Lime#32CD32
-Pine Empty DimGray#696969 Teal#008080
-Pine Bananarama Brown#8B4513 Lime#32CD32
-Default Empty Brown#8B4513 Lime#32CD32
-Default Bananarama OliveDrab#6B8E23 Green#008000
-Default Coconuts DimGray#696969 Green#008000
-Default Coconuts DimGray#696969 Orchid#DA70D6
-Pine Empty DimGray#696969 Aquamarine#66CDAA
-Default Apples DimGray#696969 Silver#A9A9A9
-Default Bananarama DimGray#696969 Salmon##FA8072
-Default Flowers Brown#8B4513 Indigo#4B0082
-Pine Apples Brown#8B4513 Lime#32CD32
-Default Empty DimGray#696969 Lime#32CD32
-Default Coconuts Brown#8B4513 Teal#008080
-Default X-Mas Brown#8B4513 DarkRed#8B0000
-Default Peaches Brown#8B4513 Green#008000
-Default Coconuts DimGray#696969 Lime#32CD32
-Spread Flowers Icy#E0FFFF Gold#FF8C00
-Spread Empty Brown#8B4513 Orchid#DA70D6
-Pine Bananarama Brown#8B4513 Teal#008080
-Default Empty DimGray#696969 Crimson#DC143C
-Pine Bananarama Brown#8B4513 Green#008000
-Default Coconuts Brown#8B4513 Lime#32CD32
-Default Empty DimGray#696969 Aquamarine#66CDAA
-Default Coconuts Brown#8B4513 Lime#32CD32
-Spread X-Mas Brown#8B4513 Lime#32CD32
-Pine Empty Icy#E0FFFF Chocolate#A0522D
-Default Apples Icy#E0FFFF Orchid#DA70D6
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Default Coconuts DimGray#696969 Teal#008080
-Spread Empty Brown#8B4513 DarkRed#8B0000
-Default Bananarama DimGray#696969 Green#008000
-Spread Apples Brown#8B4513 Lime#32CD32
-Pine Empty DimGray#696969 Gold#FF8C00
-Pine Coconuts DimGray#696969 Teal#008080
-Default Bananarama DimGray#696969 Green#008000
-Spread Empty DimGray#696969 Crimson#DC143C
-Default Empty Icy#E0FFFF Lime#32CD32
-Pine Coconuts Brown#8B4513 Lime#32CD32
-Pine Apples Brown#8B4513 Aquamarine#66CDAA
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Default Empty DimGray#696969 Green#008000
-Pine Empty Brown#8B4513 Green#008000
-Default Bananarama Brown#8B4513 Teal#008080
-Default Empty Brown#8B4513 Salmon##FA8072
-Palm Empty Brown#8B4513 Salmon##FA8072
-Pine Empty Icy#E0FFFF Silver#A9A9A9
-Default Peaches Brown#8B4513 Chocolate#A0522D
-Palm Peaches Brown#8B4513 Teal#008080
-Default Coconuts DimGray#696969 Orchid#DA70D6
-Default Coconuts Brown#8B4513 DarkRed#8B0000
-Default Empty DimGray#696969 Crimson#DC143C
-Default Empty Brown#8B4513 Teal#008080
-Default Peaches DimGray#696969 Aquamarine#66CDAA
-Default Bananarama DimGray#696969 Teal#008080
-Default X-Mas Icy#E0FFFF Silver#A9A9A9
-Default Flowers Brown#8B4513 Silver#A9A9A9
-Pine Empty DimGray#696969 Orchid#DA70D6
-Pine Apples DimGray#696969 Crimson#DC143C
-Default Peaches Brown#8B4513 Lime#32CD32
-Palm Peaches Brown#8B4513 Crimson#DC143C
-Palm Empty Icy#E0FFFF Crimson#DC143C
-Pine Bananarama Brown#8B4513 Lime#32CD32
-Default Coconuts Brown#8B4513 Silver#A9A9A9
-Default Apples DimGray#696969 Lime#32CD32
-Pine Peaches Brown#8B4513 Indigo#4B0082
-Pine Empty Icy#E0FFFF DarkRed#8B0000
-Default Coconuts Brown#8B4513 Lime#32CD32
-Palm Empty Icy#E0FFFF Green#008000
-Spread Empty Brown#8B4513 Lime#32CD32
-Default Empty DimGray#696969 Chocolate#A0522D
-Spread Empty Brown#8B4513 Salmon##FA8072
-Default Apples Brown#8B4513 Teal#008080
-Pine Empty Brown#8B4513 Lime#32CD32
-Default Bananarama Brown#8B4513 Indigo#4B0082
-Pine Empty DimGray#696969 Indigo#4B0082
-Palm Empty DimGray#696969 Silver#A9A9A9
-Default Empty Brown#8B4513 Chocolate#A0522D
-Default Coconuts Brown#8B4513 Silver#A9A9A9
-Default Coconuts Brown#8B4513 Lime#32CD32
-Default Coconuts OliveDrab#6B8E23 Green#008000
-Default X-Mas Brown#8B4513 DarkRed#8B0000
-Default Bananarama Brown#8B4513 Indigo#4B0082
-Pine Apples Brown#8B4513 Aquamarine#66CDAA
-Spread Coconuts Brown#8B4513 Crimson#DC143C
-Pine Bananarama Icy#E0FFFF Indigo#4B0082
-Spread Empty Brown#8B4513 Green#008000
-Palm Apples Brown#8B4513 Teal#008080
-Pine Empty Icy#E0FFFF Indigo#4B0082
-Default Coconuts Brown#8B4513 Lime#32CD32
-Default Apples OliveDrab#6B8E23 Salmon##FA8072
-Default Empty DimGray#696969 Crimson#DC143C
-Default Empty Brown#8B4513 Chocolate#A0522D
-Default Apples DimGray#696969 Indigo#4B0082
-Default Empty Brown#8B4513 Indigo#4B0082
-Palm Empty Brown#8B4513 Salmon##FA8072
-Default Empty Brown#8B4513 Crimson#DC143C
-Default Empty Brown#8B4513 Teal#008080
-Pine Apples Brown#8B4513 Lime#32CD32
-Pine Coconuts Brown#8B4513 Lime#32CD32
-Pine Peaches Brown#8B4513 Lime#32CD32
-Pine X-Mas DimGray#696969 Lime#32CD32
-Default Peaches DimGray#696969 Silver#A9A9A9
-Default Empty DimGray#696969 Aquamarine#66CDAA
-Default Apples DimGray#696969 Indigo#4B0082
-Spread Empty Icy#E0FFFF DarkRed#8B0000
-Pine Flowers DimGray#696969 Teal#008080
-Pine X-Mas Brown#8B4513 Green#008000
-Default Apples Brown#8B4513 Salmon##FA8072
-Pine Coconuts DimGray#696969 Orchid#DA70D6
-Pine Bananarama DimGray#696969 Gold#FF8C00
-Default Coconuts DimGray#696969 Teal#008080
-Pine Empty DimGray#696969 Green#008000
-Default Apples DimGray#696969 Lime#32CD32
-Pine Apples Icy#E0FFFF Crimson#DC143C
-Palm Empty Brown#8B4513 Gold#FF8C00
-Palm Coconuts Brown#8B4513 Lime#32CD32
-Palm Empty OliveDrab#6B8E23 DarkRed#8B0000
-Default Coconuts Brown#8B4513 Green#008000
-Default Empty DimGray#696969 Orchid#DA70D6
-Pine Empty OliveDrab#6B8E23 Lime#32CD32
-Default Empty Brown#8B4513 Salmon##FA8072
-Spread Bananarama Brown#8B4513 Aquamarine#66CDAA
-Pine Bananarama OliveDrab#6B8E23 Orchid#DA70D6
-Palm Peaches Brown#8B4513 Aquamarine#66CDAA
-Default Coconuts DimGray#696969 Salmon##FA8072
-Palm Apples Brown#8B4513 Orchid#DA70D6
-Pine Empty DimGray#696969 Green#008000
-Pine Bananarama DimGray#696969 Green#008000
-Pine Empty DimGray#696969 Teal#008080
-Palm Peaches DimGray#696969 Indigo#4B0082
-Default Coconuts DimGray#696969 Indigo#4B0082
-Default X-Mas Brown#8B4513 Lime#32CD32
-Default Empty Brown#8B4513 Gold#FF8C00
-Default Empty Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 Salmon##FA8072
-Pine Empty OliveDrab#6B8E23 Lime#32CD32
-Default Empty DimGray#696969 Gold#FF8C00
-Pine Coconuts Brown#8B4513 Lime#32CD32
-Default Coconuts Icy#E0FFFF Orchid#DA70D6
-Pine Empty Brown#8B4513 DarkRed#8B0000
-Pine Flowers DimGray#696969 Crimson#DC143C
-Default Flowers Brown#8B4513 Aquamarine#66CDAA
-Default Apples DimGray#696969 Crimson#DC143C
-Pine Apples Brown#8B4513 Lime#32CD32
-Default Empty Brown#8B4513 Teal#008080
-Default Coconuts DimGray#696969 Salmon##FA8072
-Pine Empty Icy#E0FFFF Lime#32CD32
-Default Coconuts Brown#8B4513 Silver#A9A9A9
-Spread Coconuts DimGray#696969 Lime#32CD32
-Pine Apples Icy#E0FFFF Salmon##FA8072
-Default Peaches OliveDrab#6B8E23 Green#008000
-Default Coconuts Brown#8B4513 Indigo#4B0082
-Default Coconuts DimGray#696969 Aquamarine#66CDAA
-Default Bananarama Icy#E0FFFF Orchid#DA70D6
-Default Empty Brown#8B4513 Crimson#DC143C
-Palm Bananarama Brown#8B4513 Lime#32CD32
-Default Apples DimGray#696969 Orchid#DA70D6
-Pine Apples DimGray#696969 Aquamarine#66CDAA
-Palm Empty DimGray#696969 Silver#A9A9A9
-Pine Apples Brown#8B4513 Aquamarine#66CDAA
-Pine Bananarama Brown#8B4513 Salmon##FA8072
-Palm Empty DimGray#696969 Teal#008080
-Palm Peaches Brown#8B4513 Green#008000
-Pine Peaches OliveDrab#6B8E23 Orchid#DA70D6
-Default Empty Brown#8B4513 Indigo#4B0082
-Pine Flowers DimGray#696969 Aquamarine#66CDAA
-Pine X-Mas Brown#8B4513 Teal#008080
-Pine Bananarama OliveDrab#6B8E23 Gold#FF8C00
-Default Bananarama OliveDrab#6B8E23 Teal#008080
-Default Empty DimGray#696969 Salmon##FA8072
-Default Peaches DimGray#696969 Crimson#DC143C
-Spread Apples Brown#8B4513 Crimson#DC143C
-Pine Bananarama DimGray#696969 Orchid#DA70D6
-Spread Bananarama Brown#8B4513 Green#008000
-Default Bananarama Brown#8B4513 Orchid#DA70D6
-Default Empty Brown#8B4513 Teal#008080
-Default Peaches Brown#8B4513 Teal#008080
-Pine Bananarama Brown#8B4513 Indigo#4B0082
-Pine Coconuts Brown#8B4513 Green#008000
-Pine Coconuts DimGray#696969 Salmon##FA8072
-Default Coconuts Brown#8B4513 Salmon##FA8072
-Pine Flowers DimGray#696969 Indigo#4B0082
-Default Peaches DimGray#696969 Aquamarine#66CDAA
-Default Peaches Brown#8B4513 Gold#FF8C00
-Default Empty OliveDrab#6B8E23 Chocolate#A0522D
-Palm Empty DimGray#696969 Lime#32CD32
-Spread Bananarama DimGray#696969 Orchid#DA70D6
-Default Bananarama Brown#8B4513 Teal#008080
-Default Apples DimGray#696969 Lime#32CD32
-Pine Apples Brown#8B4513 Salmon##FA8072
-Default Bananarama Icy#E0FFFF Green#008000
-Spread Bananarama DimGray#696969 Orchid#DA70D6
-Pine Empty DimGray#696969 Green#008000
-Default Flowers Brown#8B4513 Gold#FF8C00
-Default Empty Brown#8B4513 Teal#008080
-Pine Flowers Icy#E0FFFF Lime#32CD32
-Default Coconuts DimGray#696969 Aquamarine#66CDAA
-Default Peaches Brown#8B4513 Silver#A9A9A9
-Default Empty Brown#8B4513 Indigo#4B0082
-Default Apples Brown#8B4513 Salmon##FA8072
-Palm Bananarama DimGray#696969 Green#008000
-Default Coconuts Brown#8B4513 Crimson#DC143C
-Default Peaches OliveDrab#6B8E23 Teal#008080
-Default Flowers Icy#E0FFFF Salmon##FA8072
-Pine Peaches DimGray#696969 Indigo#4B0082
-Default Empty Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 Salmon##FA8072
-Default Bananarama Brown#8B4513 Lime#32CD32
-Default Coconuts DimGray#696969 Chocolate#A0522D
-Default Apples Brown#8B4513 Lime#32CD32
-Spread Peaches Brown#8B4513 Teal#008080
-Default Empty DimGray#696969 Indigo#4B0082
-Default Apples Icy#E0FFFF Chocolate#A0522D
-Default Empty DimGray#696969 Lime#32CD32
-Default Empty Brown#8B4513 Indigo#4B0082
-Pine Apples Brown#8B4513 Silver#A9A9A9
-Pine Empty DimGray#696969 Teal#008080
-Default Empty Brown#8B4513 Aquamarine#66CDAA
-Palm Coconuts DimGray#696969 Indigo#4B0082
-Default Apples Brown#8B4513 Lime#32CD32
-Default Apples DimGray#696969 Lime#32CD32
-Pine Flowers Brown#8B4513 Green#008000
-Pine Empty Brown#8B4513 DarkRed#8B0000
-Pine Empty Brown#8B4513 Aquamarine#66CDAA
-Pine Apples Brown#8B4513 Green#008000
-Palm Bananarama Brown#8B4513 Green#008000
-Pine Flowers DimGray#696969 Green#008000
-Default Flowers Brown#8B4513 Lime#32CD32
-Palm Peaches Brown#8B4513 Lime#32CD32
-Default Empty Icy#E0FFFF Teal#008080
-Palm Coconuts Brown#8B4513 Teal#008080
-Palm Peaches DimGray#696969 Green#008000
-Default Peaches DimGray#696969 DarkRed#8B0000
-Default Empty DimGray#696969 Crimson#DC143C
-Pine Apples Icy#E0FFFF Indigo#4B0082
-Default Peaches Icy#E0FFFF Aquamarine#66CDAA
-Pine Empty DimGray#696969 Green#008000
-Pine Peaches Brown#8B4513 Chocolate#A0522D
-Default Apples DimGray#696969 Indigo#4B0082
-Default Bananarama Brown#8B4513 Aquamarine#66CDAA
-Default Apples Icy#E0FFFF Indigo#4B0082
-Default Apples Brown#8B4513 Indigo#4B0082
-Default Bananarama OliveDrab#6B8E23 Indigo#4B0082
-Default Apples Brown#8B4513 Orchid#DA70D6
-Default Empty OliveDrab#6B8E23 Indigo#4B0082
-Default Empty Icy#E0FFFF Orchid#DA70D6
-Pine Bananarama Icy#E0FFFF Gold#FF8C00
-Pine Flowers DimGray#696969 Lime#32CD32
-Pine Peaches Brown#8B4513 Gold#FF8C00
-Default Empty DimGray#696969 Lime#32CD32
+Pine Bananarama type3 Brown#8B4513 Lime#32CD32 Lime#32CD32 Salmon#FA8072
+Palm X-Mas type2 Brown#8B4513 Aquamarine#66CDAA Salmon#FA8072 Gold#FF8C00
+Spread Bananarama type1 DimGray#696969 Orchid#DA70D6 Teal#008080 Salmon#FA8072
+Pine Apples type1 Brown#8B4513 Green#008000 Salmon#FA8072 Indigo#4B0082
+Default Apples type2 Brown#8B4513 Crimson#DC143C Teal#008080 Teal#008080
+Pine Peaches type3 OliveDrab#6B8E23 Green#008000 Aquamarine#66CDAA Lime#32CD32
+Pine Empty type1 Brown#8B4513 Orchid#DA70D6 Aquamarine#66CDAA Salmon#FA8072
+Pine Coconuts type3 Brown#8B4513 Teal#008080 Aquamarine#66CDAA Salmon#FA8072
+Default Coconuts type1 Brown#8B4513 Green#008000 Orchid#DA70D6 Orchid#DA70D6
+Default Empty type1 DimGray#696969 Lime#32CD32 Indigo#4B0082 Teal#008080
+Default Empty type2 Brown#8B4513 Indigo#4B0082 Teal#008080 Gold#FF8C00
+Palm Apples type3 Brown#8B4513 Green#008000 Lime#32CD32 Chocolate#A0522D
+Pine Empty type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Lime#32CD32
+Default Empty type3 Brown#8B4513 Teal#008080 Chocolate#A0522D Crimson#DC143C
+Default Coconuts type3 Icy#E0FFFF Teal#008080 Indigo#4B0082 Indigo#4B0082
+Default Apples type2 Brown#8B4513 Orchid#DA70D6 Orchid#DA70D6 Gold#FF8C00
+Pine Coconuts type2 DimGray#696969 Crimson#DC143C Indigo#4B0082 Indigo#4B0082
+Palm Flowers type3 Brown#8B4513 Green#008000 Lime#32CD32 Teal#008080
+Pine Empty type1 Brown#8B4513 Teal#008080 Teal#008080 Crimson#DC143C
+Pine Apples type2 DimGray#696969 DarkRed#8B0000 Green#008000 Silver#A9A9A9
+Palm Apples type3 Brown#8B4513 Green#008000 Green#008000 Green#008000
+Pine Flowers type2 Brown#8B4513 Salmon#FA8072 Teal#008080 Salmon#FA8072
+Default Empty type1 Brown#8B4513 Gold#FF8C00 DarkRed#8B0000 Aquamarine#66CDAA
+Default Empty type1 DimGray#696969 Indigo#4B0082 Teal#008080 Crimson#DC143C
+Palm Peaches type1 Icy#E0FFFF Green#008000 Aquamarine#66CDAA Lime#32CD32
+Default Coconuts type1 Brown#8B4513 Gold#FF8C00 Indigo#4B0082 Gold#FF8C00
+Pine Bananarama type1 DimGray#696969 Aquamarine#66CDAA Indigo#4B0082 Lime#32CD32
+Palm Bananarama type3 Brown#8B4513 Green#008000 DarkRed#8B0000 Lime#32CD32
+Pine Peaches type3 DimGray#696969 Salmon#FA8072 Teal#008080 Salmon#FA8072
+Default Peaches type2 Brown#8B4513 Lime#32CD32 Lime#32CD32 Aquamarine#66CDAA
+Pine Empty type1 Brown#8B4513 Crimson#DC143C Lime#32CD32 Chocolate#A0522D
+Default Apples type2 DimGray#696969 Lime#32CD32 Silver#A9A9A9 Salmon#FA8072
+Spread Empty type3 Brown#8B4513 Orchid#DA70D6 Lime#32CD32 Teal#008080
+Default Flowers type2 Icy#E0FFFF Orchid#DA70D6 Crimson#DC143C Lime#32CD32
+Palm Empty type3 DimGray#696969 Lime#32CD32 Teal#008080 Green#008000
+Default Coconuts type3 Brown#8B4513 Green#008000 Salmon#FA8072 Silver#A9A9A9
+Spread Empty type3 DimGray#696969 Green#008000 Salmon#FA8072 Indigo#4B0082
+Default Flowers type3 OliveDrab#6B8E23 Aquamarine#66CDAA Indigo#4B0082 Silver#A9A9A9
+Default Empty type1 DimGray#696969 Gold#FF8C00 Aquamarine#66CDAA Orchid#DA70D6
+Default Peaches type2 Brown#8B4513 Silver#A9A9A9 Crimson#DC143C Lime#32CD32
+Default Flowers type1 OliveDrab#6B8E23 Lime#32CD32 Aquamarine#66CDAA Indigo#4B0082
+Default Coconuts type1 Brown#8B4513 Indigo#4B0082 Crimson#DC143C Lime#32CD32
+Default Empty type3 Brown#8B4513 Silver#A9A9A9 Aquamarine#66CDAA Teal#008080
+Pine Peaches type1 Brown#8B4513 DarkRed#8B0000 Orchid#DA70D6 Teal#008080
+Pine Empty type2 Brown#8B4513 Green#008000 Lime#32CD32 DarkRed#8B0000
+Default Empty type2 Icy#E0FFFF Orchid#DA70D6 DarkRed#8B0000 Green#008000
+Default Peaches type2 Brown#8B4513 Chocolate#A0522D Crimson#DC143C Silver#A9A9A9
+Pine Empty type2 DimGray#696969 Green#008000 Indigo#4B0082 Lime#32CD32
+Default Bananarama type2 Icy#E0FFFF DarkRed#8B0000 Lime#32CD32 Indigo#4B0082
+Default Coconuts type1 Icy#E0FFFF Crimson#DC143C Salmon#FA8072 Lime#32CD32
+Pine Empty type1 Icy#E0FFFF Crimson#DC143C Crimson#DC143C Lime#32CD32
+Default Empty type1 DimGray#696969 Aquamarine#66CDAA Teal#008080 Teal#008080
+Default Empty type2 Brown#8B4513 Indigo#4B0082 Lime#32CD32 Chocolate#A0522D
+Pine Empty type3 DimGray#696969 Salmon#FA8072 Salmon#FA8072 Teal#008080
+Pine Apples type3 DimGray#696969 Lime#32CD32 Green#008000 Crimson#DC143C
+Palm Empty type1 Brown#8B4513 Salmon#FA8072 Aquamarine#66CDAA Green#008000
+Default Coconuts type1 Brown#8B4513 Aquamarine#66CDAA DarkRed#8B0000 Gold#FF8C00
+Default Empty type3 Brown#8B4513 DarkRed#8B0000 Indigo#4B0082 Orchid#DA70D6
+Default Apples type2 Icy#E0FFFF Silver#A9A9A9 Green#008000 Lime#32CD32
+Spread Empty type3 Brown#8B4513 Lime#32CD32 Gold#FF8C00 Teal#008080
+Palm Coconuts type2 Brown#8B4513 Indigo#4B0082 Green#008000 Crimson#DC143C
+Pine Empty type1 DimGray#696969 Salmon#FA8072 Chocolate#A0522D Green#008000
+Default Empty type1 Icy#E0FFFF Indigo#4B0082 Gold#FF8C00 Salmon#FA8072
+Palm X-Mas type1 DimGray#696969 DarkRed#8B0000 Gold#FF8C00 Salmon#FA8072
+Pine Empty type3 OliveDrab#6B8E23 Aquamarine#66CDAA Orchid#DA70D6 Teal#008080
+Pine Empty type1 Brown#8B4513 Crimson#DC143C Crimson#DC143C Orchid#DA70D6
+Default Bananarama type1 Brown#8B4513 Orchid#DA70D6 Indigo#4B0082 DarkRed#8B0000
+Default Empty type1 Icy#E0FFFF Crimson#DC143C Green#008000 Lime#32CD32
+Pine Flowers type2 Brown#8B4513 Salmon#FA8072 Silver#A9A9A9 Silver#A9A9A9
+Pine Bananarama type1 DimGray#696969 Salmon#FA8072 Aquamarine#66CDAA Teal#008080
+Spread Peaches type2 DimGray#696969 Teal#008080 Chocolate#A0522D Aquamarine#66CDAA
+Pine Coconuts type1 Brown#8B4513 Indigo#4B0082 Indigo#4B0082 Orchid#DA70D6
+Palm Empty type1 DimGray#696969 Lime#32CD32 Silver#A9A9A9 Teal#008080
+Default Bananarama type2 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Lime#32CD32
+Default Apples type3 Brown#8B4513 DarkRed#8B0000 Chocolate#A0522D Salmon#FA8072
+Palm Apples type1 DimGray#696969 Teal#008080 Chocolate#A0522D Salmon#FA8072
+Pine Apples type3 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Indigo#4B0082
+Default Empty type3 Brown#8B4513 Gold#FF8C00 Aquamarine#66CDAA Indigo#4B0082
+Pine Flowers type1 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Teal#008080
+Palm Empty type1 Icy#E0FFFF Silver#A9A9A9 Green#008000 Green#008000
+Pine Apples type1 DimGray#696969 Crimson#DC143C Aquamarine#66CDAA Gold#FF8C00
+Pine Empty type3 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 Lime#32CD32
+Default Flowers type2 DimGray#696969 Indigo#4B0082 Teal#008080 Chocolate#A0522D
+Default Empty type3 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Crimson#DC143C
+Pine Empty type2 DimGray#696969 Chocolate#A0522D Indigo#4B0082 Indigo#4B0082
+Palm Flowers type1 OliveDrab#6B8E23 Green#008000 Lime#32CD32 Salmon#FA8072
+Spread Peaches type2 Brown#8B4513 Salmon#FA8072 Gold#FF8C00 Gold#FF8C00
+Spread Bananarama type2 DimGray#696969 Salmon#FA8072 Teal#008080 Teal#008080
+Pine Coconuts type3 Brown#8B4513 Indigo#4B0082 Indigo#4B0082 Crimson#DC143C
+Default Flowers type2 Brown#8B4513 Lime#32CD32 Lime#32CD32 DarkRed#8B0000
+Pine Empty type2 Brown#8B4513 Salmon#FA8072 Indigo#4B0082 Lime#32CD32
+Palm Empty type1 Brown#8B4513 Crimson#DC143C Salmon#FA8072 Chocolate#A0522D
+Pine Empty type3 OliveDrab#6B8E23 Indigo#4B0082 Lime#32CD32 Indigo#4B0082
+Default Empty type2 Brown#8B4513 DarkRed#8B0000 Lime#32CD32 Green#008000
+Default Apples type2 Brown#8B4513 Lime#32CD32 Green#008000 Lime#32CD32
+Pine Coconuts type1 Brown#8B4513 Lime#32CD32 Chocolate#A0522D Silver#A9A9A9
+Default Apples type2 DimGray#696969 Green#008000 Green#008000 Indigo#4B0082
+Pine Peaches type3 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 Teal#008080
+Default Empty type2 Brown#8B4513 Chocolate#A0522D DarkRed#8B0000 Indigo#4B0082
+Pine Flowers type2 Brown#8B4513 Chocolate#A0522D Salmon#FA8072 Salmon#FA8072
+Default Peaches type2 DimGray#696969 Salmon#FA8072 Green#008000 Crimson#DC143C
+Default Empty type3 DimGray#696969 Lime#32CD32 Orchid#DA70D6 Salmon#FA8072
+Spread Bananarama type1 Brown#8B4513 Indigo#4B0082 Silver#A9A9A9 Aquamarine#66CDAA
+Pine Flowers type3 Icy#E0FFFF Crimson#DC143C Silver#A9A9A9 Gold#FF8C00
+Default Empty type1 DimGray#696969 Green#008000 Lime#32CD32 Indigo#4B0082
+Default Empty type3 DimGray#696969 Green#008000 Teal#008080 Aquamarine#66CDAA
+Spread Bananarama type3 Icy#E0FFFF Aquamarine#66CDAA DarkRed#8B0000 Lime#32CD32
+Pine Coconuts type2 DimGray#696969 Indigo#4B0082 Lime#32CD32 Salmon#FA8072
+Palm Empty type3 DimGray#696969 Indigo#4B0082 Crimson#DC143C Green#008000
+Pine Empty type1 Brown#8B4513 Crimson#DC143C Lime#32CD32 Indigo#4B0082
+Pine Empty type3 Icy#E0FFFF Lime#32CD32 Teal#008080 Crimson#DC143C
+Spread Bananarama type3 DimGray#696969 Green#008000 Green#008000 Orchid#DA70D6
+Pine Coconuts type3 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Orchid#DA70D6
+Palm Empty type1 Brown#8B4513 Crimson#DC143C Teal#008080 Lime#32CD32
+Pine Apples type2 Icy#E0FFFF Teal#008080 Aquamarine#66CDAA Salmon#FA8072
+Pine Coconuts type1 Brown#8B4513 Teal#008080 Lime#32CD32 Lime#32CD32
+Pine Empty type3 Brown#8B4513 DarkRed#8B0000 Lime#32CD32 Green#008000
+Default Empty type1 DimGray#696969 Crimson#DC143C Aquamarine#66CDAA Aquamarine#66CDAA
+Palm Apples type2 Icy#E0FFFF Aquamarine#66CDAA Lime#32CD32 Silver#A9A9A9
+Default Flowers type1 DimGray#696969 Green#008000 Indigo#4B0082 Lime#32CD32
+Pine Bananarama type1 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA DarkRed#8B0000
+Pine Peaches type1 OliveDrab#6B8E23 DarkRed#8B0000 Orchid#DA70D6 Chocolate#A0522D
+Default Apples type3 OliveDrab#6B8E23 Green#008000 Indigo#4B0082 Lime#32CD32
+Default Empty type1 OliveDrab#6B8E23 Indigo#4B0082 Lime#32CD32 Lime#32CD32
+Default Peaches type1 OliveDrab#6B8E23 Chocolate#A0522D Gold#FF8C00 Salmon#FA8072
+Spread Empty type3 Brown#8B4513 Teal#008080 Lime#32CD32 Chocolate#A0522D
+Default Peaches type1 Brown#8B4513 Crimson#DC143C Green#008000 Lime#32CD32
+Default Apples type1 Brown#8B4513 Teal#008080 Teal#008080 Lime#32CD32
+Spread Coconuts type3 DimGray#696969 Silver#A9A9A9 Orchid#DA70D6 Green#008000
+Default Empty type1 Brown#8B4513 Salmon#FA8072 DarkRed#8B0000 Orchid#DA70D6
+Spread Empty type2 DimGray#696969 Indigo#4B0082 Gold#FF8C00 Aquamarine#66CDAA
+Default Apples type1 OliveDrab#6B8E23 Indigo#4B0082 Teal#008080 Lime#32CD32
+Default Coconuts type3 DimGray#696969 Salmon#FA8072 Lime#32CD32 Crimson#DC143C
+Palm Coconuts type1 Brown#8B4513 Green#008000 Teal#008080 Crimson#DC143C
+Pine Peaches type1 Icy#E0FFFF Gold#FF8C00 Indigo#4B0082 Indigo#4B0082
+Default Apples type1 Icy#E0FFFF Chocolate#A0522D Lime#32CD32 Teal#008080
+Pine Apples type1 DimGray#696969 Teal#008080 Orchid#DA70D6 Salmon#FA8072
+Default Empty type1 Brown#8B4513 Lime#32CD32 Aquamarine#66CDAA Indigo#4B0082
+Palm Empty type2 DimGray#696969 Green#008000 Teal#008080 Lime#32CD32
+Spread Apples type2 DimGray#696969 Teal#008080 Crimson#DC143C Aquamarine#66CDAA
+Palm Coconuts type3 Brown#8B4513 Teal#008080 Salmon#FA8072 Silver#A9A9A9
+Pine Coconuts type1 Brown#8B4513 DarkRed#8B0000 Salmon#FA8072 Orchid#DA70D6
+Default Empty type1 Brown#8B4513 Lime#32CD32 Salmon#FA8072 Green#008000
+Pine Flowers type2 Brown#8B4513 Aquamarine#66CDAA Crimson#DC143C Chocolate#A0522D
+Default Empty type1 DimGray#696969 Teal#008080 Lime#32CD32 Crimson#DC143C
+Pine Coconuts type3 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Lime#32CD32
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Aquamarine#66CDAA Orchid#DA70D6
+Default Empty type2 Brown#8B4513 Chocolate#A0522D DarkRed#8B0000 Green#008000
+Default Apples type1 DimGray#696969 Aquamarine#66CDAA Teal#008080 Salmon#FA8072
+Default Peaches type1 DimGray#696969 Indigo#4B0082 Green#008000 Salmon#FA8072
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Teal#008080 Lime#32CD32
+Pine Apples type1 Brown#8B4513 Indigo#4B0082 Crimson#DC143C Green#008000
+Default Flowers type3 DimGray#696969 Crimson#DC143C Silver#A9A9A9 Indigo#4B0082
+Palm Empty type3 Brown#8B4513 Orchid#DA70D6 Lime#32CD32 Teal#008080
+Pine Bananarama type1 Brown#8B4513 Green#008000 Indigo#4B0082 Crimson#DC143C
+Palm Apples type3 DimGray#696969 Aquamarine#66CDAA Silver#A9A9A9 Aquamarine#66CDAA
+Pine Apples type1 DimGray#696969 Green#008000 Crimson#DC143C Aquamarine#66CDAA
+Default Empty type3 DimGray#696969 Teal#008080 Aquamarine#66CDAA Crimson#DC143C
+Pine Coconuts type1 Brown#8B4513 Lime#32CD32 Lime#32CD32 DarkRed#8B0000
+Default Bananarama type2 Brown#8B4513 Chocolate#A0522D Aquamarine#66CDAA Aquamarine#66CDAA
+Spread Apples type1 Brown#8B4513 Teal#008080 Aquamarine#66CDAA Lime#32CD32
+Pine Peaches type1 Icy#E0FFFF DarkRed#8B0000 Gold#FF8C00 Lime#32CD32
+Pine Coconuts type1 DimGray#696969 Orchid#DA70D6 Teal#008080 Chocolate#A0522D
+Pine Empty type1 OliveDrab#6B8E23 Orchid#DA70D6 Indigo#4B0082 Aquamarine#66CDAA
+Default X-Mas type1 Brown#8B4513 Orchid#DA70D6 Gold#FF8C00 Aquamarine#66CDAA
+Pine Empty type2 DimGray#696969 Teal#008080 Salmon#FA8072 Salmon#FA8072
+Default Empty type1 Brown#8B4513 Indigo#4B0082 Gold#FF8C00 Lime#32CD32
+Pine Bananarama type1 Brown#8B4513 Salmon#FA8072 Green#008000 Chocolate#A0522D
+Default Bananarama type2 DimGray#696969 Crimson#DC143C Indigo#4B0082 Indigo#4B0082
+Default Empty type2 Brown#8B4513 Orchid#DA70D6 Teal#008080 Aquamarine#66CDAA
+Default Empty type1 Brown#8B4513 DarkRed#8B0000 Lime#32CD32 Salmon#FA8072
+Default Peaches type3 DimGray#696969 Green#008000 Chocolate#A0522D Silver#A9A9A9
+Default Peaches type2 DimGray#696969 Indigo#4B0082 Chocolate#A0522D Teal#008080
+Default Bananarama type1 Brown#8B4513 Teal#008080 Lime#32CD32 Salmon#FA8072
+Pine Empty type1 Brown#8B4513 Indigo#4B0082 Crimson#DC143C Lime#32CD32
+Pine Coconuts type1 Brown#8B4513 DarkRed#8B0000 Gold#FF8C00 Green#008000
+Default Empty type2 Brown#8B4513 Crimson#DC143C Orchid#DA70D6 Green#008000
+Default Peaches type1 Icy#E0FFFF Indigo#4B0082 Indigo#4B0082 Crimson#DC143C
+Default Peaches type3 Brown#8B4513 Lime#32CD32 Lime#32CD32 Orchid#DA70D6
+Default Coconuts type1 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Silver#A9A9A9
+Pine Empty type2 Icy#E0FFFF Lime#32CD32 Green#008000 Aquamarine#66CDAA
+Pine Apples type1 DimGray#696969 Teal#008080 Teal#008080 Aquamarine#66CDAA
+Default Empty type1 Brown#8B4513 Lime#32CD32 Teal#008080 Lime#32CD32
+Spread Coconuts type3 Brown#8B4513 Gold#FF8C00 Gold#FF8C00 Orchid#DA70D6
+Pine Bananarama type1 OliveDrab#6B8E23 Orchid#DA70D6 Aquamarine#66CDAA Salmon#FA8072
+Default Empty type2 DimGray#696969 DarkRed#8B0000 Teal#008080 Lime#32CD32
+Default Apples type3 DimGray#696969 Lime#32CD32 Orchid#DA70D6 Teal#008080
+Default Empty type1 DimGray#696969 Teal#008080 Green#008000 Lime#32CD32
+Default Empty type1 Brown#8B4513 Aquamarine#66CDAA Green#008000 Indigo#4B0082
+Spread Apples type2 Brown#8B4513 Green#008000 Aquamarine#66CDAA Indigo#4B0082
+Default X-Mas type3 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Teal#008080
+Default Coconuts type3 DimGray#696969 Chocolate#A0522D Lime#32CD32 Gold#FF8C00
+Default Coconuts type2 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 Teal#008080
+Pine Empty type1 OliveDrab#6B8E23 DarkRed#8B0000 DarkRed#8B0000 Crimson#DC143C
+Default Empty type1 Icy#E0FFFF Salmon#FA8072 Silver#A9A9A9 Aquamarine#66CDAA
+Pine Bananarama type1 Icy#E0FFFF Salmon#FA8072 Salmon#FA8072 Lime#32CD32
+Pine Bananarama type1 Brown#8B4513 Orchid#DA70D6 Orchid#DA70D6 DarkRed#8B0000
+Default Flowers type3 Brown#8B4513 Teal#008080 Aquamarine#66CDAA Orchid#DA70D6
+Default Coconuts type1 DimGray#696969 Indigo#4B0082 DarkRed#8B0000 Lime#32CD32
+Pine Bananarama type1 DimGray#696969 Teal#008080 DarkRed#8B0000 Aquamarine#66CDAA
+Default Peaches type3 Brown#8B4513 Salmon#FA8072 Teal#008080 Lime#32CD32
+Default Bananarama type3 OliveDrab#6B8E23 Salmon#FA8072 Green#008000 Salmon#FA8072
+Palm Empty type1 Brown#8B4513 Lime#32CD32 Indigo#4B0082 Salmon#FA8072
+Default Empty type1 OliveDrab#6B8E23 Salmon#FA8072 Chocolate#A0522D Silver#A9A9A9
+Palm Empty type1 Brown#8B4513 Gold#FF8C00 Teal#008080 DarkRed#8B0000
+Pine Coconuts type2 Brown#8B4513 Green#008000 Salmon#FA8072 DarkRed#8B0000
+Default Bananarama type2 DimGray#696969 Salmon#FA8072 Lime#32CD32 DarkRed#8B0000
+Pine Bananarama type2 Brown#8B4513 DarkRed#8B0000 Gold#FF8C00 Lime#32CD32
+Pine Empty type3 Brown#8B4513 Lime#32CD32 Teal#008080 Teal#008080
+Default Coconuts type2 Brown#8B4513 DarkRed#8B0000 DarkRed#8B0000 Orchid#DA70D6
+Spread Bananarama type1 Icy#E0FFFF Silver#A9A9A9 Salmon#FA8072 Indigo#4B0082
+Default Apples type2 Brown#8B4513 Green#008000 Salmon#FA8072 Green#008000
+Default Empty type2 OliveDrab#6B8E23 Teal#008080 Chocolate#A0522D Lime#32CD32
+Default Empty type1 Brown#8B4513 Crimson#DC143C Indigo#4B0082 Aquamarine#66CDAA
+Palm Empty type1 Brown#8B4513 Teal#008080 Gold#FF8C00 Orchid#DA70D6
+Pine Apples type1 DimGray#696969 Aquamarine#66CDAA Green#008000 Gold#FF8C00
+Default Empty type3 DimGray#696969 Lime#32CD32 Salmon#FA8072 Teal#008080
+Default Peaches type1 DimGray#696969 Aquamarine#66CDAA DarkRed#8B0000 Aquamarine#66CDAA
+Pine Empty type3 Brown#8B4513 Crimson#DC143C Indigo#4B0082 Indigo#4B0082
+Default Apples type1 DimGray#696969 Orchid#DA70D6 Indigo#4B0082 Lime#32CD32
+Pine Bananarama type1 Brown#8B4513 Crimson#DC143C Salmon#FA8072 Aquamarine#66CDAA
+Default Flowers type3 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Indigo#4B0082
+Palm Flowers type2 Brown#8B4513 Teal#008080 Teal#008080 Teal#008080
+Spread Coconuts type2 Brown#8B4513 Aquamarine#66CDAA Crimson#DC143C Salmon#FA8072
+Default Empty type1 Brown#8B4513 Gold#FF8C00 Crimson#DC143C DarkRed#8B0000
+Spread Flowers type2 Icy#E0FFFF Lime#32CD32 Salmon#FA8072 Lime#32CD32
+Pine Coconuts type2 Icy#E0FFFF Orchid#DA70D6 Teal#008080 Lime#32CD32
+Default Coconuts type1 DimGray#696969 Silver#A9A9A9 DarkRed#8B0000 Lime#32CD32
+Default Empty type1 Brown#8B4513 Salmon#FA8072 DarkRed#8B0000 Lime#32CD32
+Default X-Mas type1 Brown#8B4513 Salmon#FA8072 Chocolate#A0522D Crimson#DC143C
+Default Flowers type1 Brown#8B4513 Teal#008080 Silver#A9A9A9 Lime#32CD32
+Default Empty type1 Brown#8B4513 Teal#008080 Crimson#DC143C Green#008000
+Pine Empty type3 Icy#E0FFFF Lime#32CD32 Orchid#DA70D6 Salmon#FA8072
+Pine Empty type1 DimGray#696969 Lime#32CD32 Salmon#FA8072 Indigo#4B0082
+Default Empty type1 DimGray#696969 Lime#32CD32 Green#008000 DarkRed#8B0000
+Palm Peaches type2 Brown#8B4513 Orchid#DA70D6 Salmon#FA8072 Crimson#DC143C
+Default Apples type1 Brown#8B4513 Green#008000 Teal#008080 Lime#32CD32
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Lime#32CD32 DarkRed#8B0000
+Pine Bananarama type3 Brown#8B4513 Indigo#4B0082 DarkRed#8B0000 Silver#A9A9A9
+Default Empty type1 Brown#8B4513 Lime#32CD32 Indigo#4B0082 Indigo#4B0082
+Default Empty type1 OliveDrab#6B8E23 Aquamarine#66CDAA Aquamarine#66CDAA Lime#32CD32
+Pine Apples type3 OliveDrab#6B8E23 Indigo#4B0082 DarkRed#8B0000 Silver#A9A9A9
+Default Apples type1 Brown#8B4513 Aquamarine#66CDAA Salmon#FA8072 Indigo#4B0082
+Default Apples type2 Brown#8B4513 Gold#FF8C00 Teal#008080 Orchid#DA70D6
+Default Apples type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Lime#32CD32
+Spread X-Mas type1 Brown#8B4513 Gold#FF8C00 Green#008000 Teal#008080
+Default Apples type1 Brown#8B4513 Green#008000 Lime#32CD32 DarkRed#8B0000
+Palm Bananarama type1 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Teal#008080
+Spread Bananarama type1 DimGray#696969 Green#008000 Green#008000 Green#008000
+Pine Apples type1 DimGray#696969 Crimson#DC143C Teal#008080 Lime#32CD32
+Default Coconuts type3 DimGray#696969 Lime#32CD32 Orchid#DA70D6 Orchid#DA70D6
+Pine Apples type2 Brown#8B4513 Aquamarine#66CDAA Crimson#DC143C Silver#A9A9A9
+Default Flowers type1 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 DarkRed#8B0000
+Default Coconuts type2 DimGray#696969 Aquamarine#66CDAA Green#008000 Crimson#DC143C
+Pine Bananarama type1 OliveDrab#6B8E23 Indigo#4B0082 Teal#008080 Chocolate#A0522D
+Pine Empty type2 OliveDrab#6B8E23 Crimson#DC143C Lime#32CD32 Lime#32CD32
+Pine Empty type2 DimGray#696969 Salmon#FA8072 Orchid#DA70D6 Teal#008080
+Palm Empty type1 Icy#E0FFFF Salmon#FA8072 Green#008000 Lime#32CD32
+Default Empty type1 Icy#E0FFFF Lime#32CD32 DarkRed#8B0000 Green#008000
+Default Empty type1 Brown#8B4513 Orchid#DA70D6 Green#008000 Salmon#FA8072
+Default Empty type2 DimGray#696969 DarkRed#8B0000 Aquamarine#66CDAA Orchid#DA70D6
+Palm Empty type1 Brown#8B4513 Aquamarine#66CDAA DarkRed#8B0000 Crimson#DC143C
+Default Apples type1 Brown#8B4513 Chocolate#A0522D Crimson#DC143C Silver#A9A9A9
+Palm Empty type3 Brown#8B4513 Indigo#4B0082 Orchid#DA70D6 Teal#008080
+Spread Bananarama type2 DimGray#696969 DarkRed#8B0000 Gold#FF8C00 Salmon#FA8072
+Default Empty type3 Brown#8B4513 Lime#32CD32 Chocolate#A0522D Green#008000
+Default Coconuts type3 DimGray#696969 Teal#008080 Orchid#DA70D6 Indigo#4B0082
+Default Empty type2 DimGray#696969 Teal#008080 Salmon#FA8072 Lime#32CD32
+Spread Apples type2 DimGray#696969 Teal#008080 Aquamarine#66CDAA Chocolate#A0522D
+Default Bananarama type2 Icy#E0FFFF Salmon#FA8072 Salmon#FA8072 Lime#32CD32
+Pine X-Mas type1 Brown#8B4513 Teal#008080 Lime#32CD32 Teal#008080
+Default Apples type1 OliveDrab#6B8E23 Crimson#DC143C Lime#32CD32 Indigo#4B0082
+Default Apples type2 Brown#8B4513 Indigo#4B0082 Indigo#4B0082 Chocolate#A0522D
+Pine Empty type3 Icy#E0FFFF DarkRed#8B0000 Salmon#FA8072 Indigo#4B0082
+Default Coconuts type1 Icy#E0FFFF Green#008000 Aquamarine#66CDAA Crimson#DC143C
+Default Empty type3 DimGray#696969 Salmon#FA8072 Orchid#DA70D6 Lime#32CD32
+Default Apples type1 DimGray#696969 DarkRed#8B0000 Indigo#4B0082 Indigo#4B0082
+Default Apples type1 DimGray#696969 Teal#008080 Aquamarine#66CDAA Crimson#DC143C
+Spread Empty type2 DimGray#696969 Green#008000 Salmon#FA8072 Green#008000
+Default Empty type2 DimGray#696969 Teal#008080 Lime#32CD32 Gold#FF8C00
+Palm Coconuts type2 Brown#8B4513 DarkRed#8B0000 Indigo#4B0082 Crimson#DC143C
+Palm Flowers type2 Brown#8B4513 Lime#32CD32 Lime#32CD32 Lime#32CD32
+Default X-Mas type3 Brown#8B4513 Salmon#FA8072 Orchid#DA70D6 Silver#A9A9A9
+Default Empty type2 Brown#8B4513 Chocolate#A0522D Teal#008080 DarkRed#8B0000
+Palm Apples type1 OliveDrab#6B8E23 Orchid#DA70D6 Lime#32CD32 Crimson#DC143C
+Default Empty type1 Brown#8B4513 Crimson#DC143C Lime#32CD32 Indigo#4B0082
+Default Peaches type2 Brown#8B4513 Salmon#FA8072 Indigo#4B0082 Lime#32CD32
+Spread Apples type3 DimGray#696969 Orchid#DA70D6 Lime#32CD32 Teal#008080
+Default Empty type2 DimGray#696969 Indigo#4B0082 Gold#FF8C00 Lime#32CD32
+Spread Empty type1 DimGray#696969 Orchid#DA70D6 Aquamarine#66CDAA Aquamarine#66CDAA
+Palm Bananarama type1 Brown#8B4513 Silver#A9A9A9 Salmon#FA8072 Crimson#DC143C
+Spread Peaches type1 DimGray#696969 Orchid#DA70D6 Teal#008080 Green#008000
+Default Empty type1 DimGray#696969 Orchid#DA70D6 Aquamarine#66CDAA Green#008000
+Palm Peaches type3 Brown#8B4513 Lime#32CD32 Salmon#FA8072 Indigo#4B0082
+Default Peaches type3 Brown#8B4513 Indigo#4B0082 Teal#008080 Teal#008080
+Default Flowers type1 Brown#8B4513 Crimson#DC143C Teal#008080 Chocolate#A0522D
+Pine Bananarama type2 Brown#8B4513 Teal#008080 Indigo#4B0082 Aquamarine#66CDAA
+Pine Apples type1 DimGray#696969 Orchid#DA70D6 Green#008000 Orchid#DA70D6
+Default Empty type1 DimGray#696969 Lime#32CD32 Salmon#FA8072 Crimson#DC143C
+Pine Empty type3 Brown#8B4513 Salmon#FA8072 Gold#FF8C00 Indigo#4B0082
+Palm Apples type3 DimGray#696969 Aquamarine#66CDAA Indigo#4B0082 Crimson#DC143C
+Pine Bananarama type2 DimGray#696969 Teal#008080 Lime#32CD32 Indigo#4B0082
+Default Apples type1 Brown#8B4513 Lime#32CD32 Chocolate#A0522D Teal#008080
+Default Bananarama type3 OliveDrab#6B8E23 Silver#A9A9A9 Teal#008080 Orchid#DA70D6
+Pine Empty type1 DimGray#696969 DarkRed#8B0000 Indigo#4B0082 Green#008000
+Default Empty type1 OliveDrab#6B8E23 Silver#A9A9A9 Orchid#DA70D6 Indigo#4B0082
+Default Coconuts type3 DimGray#696969 Lime#32CD32 Aquamarine#66CDAA Aquamarine#66CDAA
+Pine Apples type2 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Gold#FF8C00
+Pine Empty type1 DimGray#696969 Lime#32CD32 Crimson#DC143C Green#008000
+Pine Apples type1 DimGray#696969 Salmon#FA8072 Lime#32CD32 Lime#32CD32
+Palm Peaches type3 DimGray#696969 Gold#FF8C00 Orchid#DA70D6 Indigo#4B0082
+Default Bananarama type1 DimGray#696969 Green#008000 Teal#008080 Orchid#DA70D6
+Default Empty type1 DimGray#696969 Indigo#4B0082 Lime#32CD32 DarkRed#8B0000
+Default Coconuts type2 Brown#8B4513 Silver#A9A9A9 Crimson#DC143C Indigo#4B0082
+Default Empty type1 Brown#8B4513 Indigo#4B0082 Lime#32CD32 Orchid#DA70D6
+Pine Peaches type3 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Orchid#DA70D6
+Spread Coconuts type1 Brown#8B4513 Crimson#DC143C Silver#A9A9A9 Indigo#4B0082
+Default Empty type1 DimGray#696969 Lime#32CD32 Crimson#DC143C Green#008000
+Pine Bananarama type1 Icy#E0FFFF Chocolate#A0522D Crimson#DC143C Aquamarine#66CDAA
+Pine Empty type1 Brown#8B4513 Lime#32CD32 Lime#32CD32 Teal#008080
+Spread Flowers type3 Brown#8B4513 Green#008000 Indigo#4B0082 Teal#008080
+Pine Apples type1 Brown#8B4513 Salmon#FA8072 Indigo#4B0082 Aquamarine#66CDAA
+Palm Coconuts type1 Brown#8B4513 Gold#FF8C00 Green#008000 Salmon#FA8072
+Default Empty type1 DimGray#696969 Gold#FF8C00 Lime#32CD32 Indigo#4B0082
+Default Empty type1 Brown#8B4513 Salmon#FA8072 Aquamarine#66CDAA Teal#008080
+Spread Bananarama type1 OliveDrab#6B8E23 Orchid#DA70D6 Crimson#DC143C Salmon#FA8072
+Default Empty type3 Brown#8B4513 Orchid#DA70D6 Green#008000 Crimson#DC143C
+Default Apples type3 DimGray#696969 Green#008000 Green#008000 Gold#FF8C00
+Pine Empty type1 DimGray#696969 Teal#008080 DarkRed#8B0000 Orchid#DA70D6
+Default Coconuts type2 DimGray#696969 Lime#32CD32 Silver#A9A9A9 Aquamarine#66CDAA
+Palm Peaches type1 OliveDrab#6B8E23 Gold#FF8C00 Orchid#DA70D6 Crimson#DC143C
+Default Apples type1 DimGray#696969 DarkRed#8B0000 Orchid#DA70D6 Teal#008080
+Default Empty type3 DimGray#696969 Crimson#DC143C Salmon#FA8072 Salmon#FA8072
+Default Flowers type1 Brown#8B4513 Chocolate#A0522D Teal#008080 Teal#008080
+Pine Apples type2 Brown#8B4513 Salmon#FA8072 Teal#008080 Lime#32CD32
+Pine Empty type1 Icy#E0FFFF Crimson#DC143C Green#008000 DarkRed#8B0000
+Default Empty type1 Icy#E0FFFF Salmon#FA8072 Aquamarine#66CDAA Lime#32CD32
+Pine Bananarama type2 DimGray#696969 Orchid#DA70D6 Chocolate#A0522D Lime#32CD32
+Pine Empty type2 Icy#E0FFFF DarkRed#8B0000 Aquamarine#66CDAA Teal#008080
+Palm Bananarama type3 Brown#8B4513 Teal#008080 Crimson#DC143C Indigo#4B0082
+Default Apples type1 Brown#8B4513 Aquamarine#66CDAA Salmon#FA8072 Salmon#FA8072
+Palm Empty type2 DimGray#696969 Indigo#4B0082 Crimson#DC143C Salmon#FA8072
+Default Bananarama type2 Icy#E0FFFF Indigo#4B0082 Indigo#4B0082 Green#008000
+Pine Flowers type1 Brown#8B4513 Salmon#FA8072 Green#008000 Chocolate#A0522D
+Default Empty type3 Icy#E0FFFF Teal#008080 Crimson#DC143C Chocolate#A0522D
+Pine Empty type1 DimGray#696969 Green#008000 Indigo#4B0082 Crimson#DC143C
+Default Flowers type3 Brown#8B4513 Teal#008080 Lime#32CD32 Green#008000
+Spread Bananarama type1 DimGray#696969 Teal#008080 Green#008000 Salmon#FA8072
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Crimson#DC143C Green#008000
+Palm Bananarama type3 Brown#8B4513 Lime#32CD32 Lime#32CD32 Indigo#4B0082
+Spread Empty type2 Brown#8B4513 Lime#32CD32 Crimson#DC143C Green#008000
+Pine Apples type3 Brown#8B4513 Orchid#DA70D6 Indigo#4B0082 Indigo#4B0082
+Pine Coconuts type2 Brown#8B4513 Teal#008080 Aquamarine#66CDAA Teal#008080
+Default Flowers type1 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Aquamarine#66CDAA
+Default Flowers type1 DimGray#696969 Chocolate#A0522D Lime#32CD32 Teal#008080
+Pine Empty type1 DimGray#696969 Indigo#4B0082 Chocolate#A0522D Salmon#FA8072
+Palm Empty type1 Icy#E0FFFF Green#008000 Aquamarine#66CDAA Aquamarine#66CDAA
+Pine Peaches type1 DimGray#696969 Salmon#FA8072 Green#008000 Green#008000
+Palm Coconuts type1 Brown#8B4513 Green#008000 Indigo#4B0082 Lime#32CD32
+Default Apples type3 Brown#8B4513 Indigo#4B0082 Green#008000 Teal#008080
+Default Coconuts type3 Icy#E0FFFF Lime#32CD32 Salmon#FA8072 Crimson#DC143C
+Default Bananarama type3 Brown#8B4513 Salmon#FA8072 Orchid#DA70D6 Salmon#FA8072
+Default X-Mas type1 Brown#8B4513 Aquamarine#66CDAA Gold#FF8C00 Lime#32CD32
+Default Apples type3 OliveDrab#6B8E23 Crimson#DC143C Salmon#FA8072 Teal#008080
+Default Empty type2 Brown#8B4513 Crimson#DC143C Green#008000 Salmon#FA8072
+Default Apples type3 OliveDrab#6B8E23 Green#008000 Lime#32CD32 Indigo#4B0082
+Spread Coconuts type2 DimGray#696969 Silver#A9A9A9 Aquamarine#66CDAA Lime#32CD32
+Default Coconuts type3 Brown#8B4513 Lime#32CD32 Lime#32CD32 DarkRed#8B0000
+Pine Bananarama type3 Brown#8B4513 Orchid#DA70D6 Green#008000 Indigo#4B0082
+Default Empty type1 Brown#8B4513 Green#008000 Indigo#4B0082 DarkRed#8B0000
+Pine Empty type1 DimGray#696969 Silver#A9A9A9 Indigo#4B0082 Chocolate#A0522D
+Pine Empty type3 DimGray#696969 Green#008000 Salmon#FA8072 Indigo#4B0082
+Default Coconuts type1 OliveDrab#6B8E23 Indigo#4B0082 Teal#008080 Aquamarine#66CDAA
+Default Bananarama type3 DimGray#696969 Lime#32CD32 Green#008000 Indigo#4B0082
+Default Bananarama type2 OliveDrab#6B8E23 Aquamarine#66CDAA Aquamarine#66CDAA Indigo#4B0082
+Default Peaches type3 Brown#8B4513 DarkRed#8B0000 Indigo#4B0082 Teal#008080
+Spread Flowers type3 Brown#8B4513 Chocolate#A0522D Orchid#DA70D6 Crimson#DC143C
+Pine Apples type1 OliveDrab#6B8E23 Lime#32CD32 Silver#A9A9A9 Green#008000
+Palm X-Mas type2 Brown#8B4513 Green#008000 Indigo#4B0082 Crimson#DC143C
+Default Bananarama type3 OliveDrab#6B8E23 Salmon#FA8072 Crimson#DC143C DarkRed#8B0000
+Default Flowers type1 Brown#8B4513 Green#008000 Salmon#FA8072 Orchid#DA70D6
+Default Empty type2 OliveDrab#6B8E23 Salmon#FA8072 Silver#A9A9A9 Lime#32CD32
+Default Bananarama type1 Brown#8B4513 Orchid#DA70D6 Teal#008080 Aquamarine#66CDAA
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Indigo#4B0082 Gold#FF8C00
+Default Empty type2 Brown#8B4513 DarkRed#8B0000 Teal#008080 Orchid#DA70D6
+Palm Bananarama type3 Brown#8B4513 Lime#32CD32 Aquamarine#66CDAA Teal#008080
+Spread Empty type1 Brown#8B4513 Indigo#4B0082 Salmon#FA8072 Teal#008080
+Default Empty type1 DimGray#696969 Indigo#4B0082 DarkRed#8B0000 Silver#A9A9A9
+Default Bananarama type3 Brown#8B4513 DarkRed#8B0000 Lime#32CD32 Aquamarine#66CDAA
+Spread Empty type1 Brown#8B4513 Orchid#DA70D6 Chocolate#A0522D Aquamarine#66CDAA
+Pine Coconuts type1 Brown#8B4513 Green#008000 Indigo#4B0082 Crimson#DC143C
+Default Empty type1 DimGray#696969 Salmon#FA8072 Lime#32CD32 Lime#32CD32
+Pine X-Mas type2 DimGray#696969 Aquamarine#66CDAA Silver#A9A9A9 Indigo#4B0082
+Default Empty type2 DimGray#696969 Chocolate#A0522D Salmon#FA8072 Lime#32CD32
+Default Empty type1 OliveDrab#6B8E23 Crimson#DC143C Indigo#4B0082 Orchid#DA70D6
+Palm Empty type2 Brown#8B4513 Chocolate#A0522D Green#008000 Salmon#FA8072
+Palm Coconuts type3 Icy#E0FFFF Indigo#4B0082 Teal#008080 Aquamarine#66CDAA
+Pine Bananarama type1 OliveDrab#6B8E23 Lime#32CD32 Aquamarine#66CDAA Indigo#4B0082
+Default Empty type1 Brown#8B4513 Chocolate#A0522D Crimson#DC143C Salmon#FA8072
+Default Bananarama type2 Brown#8B4513 Green#008000 Teal#008080 Aquamarine#66CDAA
+Default Bananarama type1 DimGray#696969 Salmon#FA8072 Orchid#DA70D6 Aquamarine#66CDAA
+Default Flowers type2 Brown#8B4513 DarkRed#8B0000 Aquamarine#66CDAA Orchid#DA70D6
+Pine Empty type1 Brown#8B4513 Lime#32CD32 Lime#32CD32 Aquamarine#66CDAA
+Default X-Mas type3 Brown#8B4513 Salmon#FA8072 Chocolate#A0522D Crimson#DC143C
+Pine Empty type1 Icy#E0FFFF Teal#008080 Green#008000 Chocolate#A0522D
+Default Empty type1 OliveDrab#6B8E23 Lime#32CD32 Crimson#DC143C Lime#32CD32
+Default Apples type1 DimGray#696969 Lime#32CD32 Silver#A9A9A9 Salmon#FA8072
+Pine Bananarama type1 OliveDrab#6B8E23 Lime#32CD32 Orchid#DA70D6 Aquamarine#66CDAA
+Default Bananarama type1 Brown#8B4513 Salmon#FA8072 Green#008000 Salmon#FA8072
+Palm Bananarama type2 DimGray#696969 Lime#32CD32 Chocolate#A0522D Teal#008080
+Pine Flowers type2 Icy#E0FFFF Indigo#4B0082 Green#008000 Orchid#DA70D6
+Default Empty type1 Brown#8B4513 Green#008000 Green#008000 Lime#32CD32
+Palm Apples type1 Brown#8B4513 Green#008000 Lime#32CD32 Aquamarine#66CDAA
+Default Bananarama type1 OliveDrab#6B8E23 Lime#32CD32 Green#008000 Green#008000
+Default Apples type1 Brown#8B4513 Salmon#FA8072 Orchid#DA70D6 Salmon#FA8072
+Pine Bananarama type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Chocolate#A0522D
+Default Bananarama type3 DimGray#696969 Lime#32CD32 Teal#008080 Teal#008080
+Default Bananarama type1 Icy#E0FFFF Green#008000 Green#008000 Indigo#4B0082
+Default Empty type2 DimGray#696969 DarkRed#8B0000 DarkRed#8B0000 Lime#32CD32
+Default Empty type1 DimGray#696969 Chocolate#A0522D Indigo#4B0082 Lime#32CD32
+Default Apples type3 DimGray#696969 Teal#008080 Chocolate#A0522D Gold#FF8C00
+Pine Empty type1 DimGray#696969 Indigo#4B0082 Lime#32CD32 Teal#008080
+Pine Empty type2 DimGray#696969 Lime#32CD32 Crimson#DC143C Lime#32CD32
+Pine Flowers type3 Brown#8B4513 Teal#008080 Indigo#4B0082 Green#008000
+Default Apples type2 Brown#8B4513 Aquamarine#66CDAA Salmon#FA8072 Lime#32CD32
+Spread Peaches type1 DimGray#696969 Green#008000 Lime#32CD32 Green#008000
+Default Apples type1 Brown#8B4513 Lime#32CD32 Indigo#4B0082 DarkRed#8B0000
+Default Peaches type2 OliveDrab#6B8E23 Teal#008080 Lime#32CD32 Chocolate#A0522D
+Pine Flowers type1 Brown#8B4513 Indigo#4B0082 Lime#32CD32 Aquamarine#66CDAA
+Default Empty type1 Brown#8B4513 Gold#FF8C00 Green#008000 Lime#32CD32
+Default Empty type1 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Indigo#4B0082
+Pine Flowers type3 Brown#8B4513 DarkRed#8B0000 Teal#008080 Indigo#4B0082
+Pine Coconuts type2 Icy#E0FFFF Silver#A9A9A9 Aquamarine#66CDAA Lime#32CD32
+Default Coconuts type3 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Salmon#FA8072
+Default X-Mas type2 Icy#E0FFFF Gold#FF8C00 Salmon#FA8072 Indigo#4B0082
+Pine Bananarama type1 OliveDrab#6B8E23 Silver#A9A9A9 Lime#32CD32 Crimson#DC143C
+Pine Apples type3 Icy#E0FFFF Lime#32CD32 Teal#008080 Indigo#4B0082
+Pine Bananarama type1 DimGray#696969 Silver#A9A9A9 Indigo#4B0082 Gold#FF8C00
+Default Empty type3 Brown#8B4513 Indigo#4B0082 Crimson#DC143C Orchid#DA70D6
+Spread Bananarama type1 DimGray#696969 Lime#32CD32 Crimson#DC143C DarkRed#8B0000
+Default Coconuts type1 Brown#8B4513 Green#008000 DarkRed#8B0000 Chocolate#A0522D
+Pine Coconuts type2 OliveDrab#6B8E23 Lime#32CD32 Chocolate#A0522D Salmon#FA8072
+Spread Empty type3 Icy#E0FFFF Green#008000 Indigo#4B0082 Teal#008080
+Default Empty type3 Brown#8B4513 Green#008000 Aquamarine#66CDAA Indigo#4B0082
+Default Apples type1 Brown#8B4513 Teal#008080 Teal#008080 Silver#A9A9A9
+Default Peaches type1 Brown#8B4513 Crimson#DC143C Teal#008080 Indigo#4B0082
+Pine Empty type3 Brown#8B4513 Indigo#4B0082 Orchid#DA70D6 Crimson#DC143C
+Default Empty type2 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Lime#32CD32
+Default Empty type1 Brown#8B4513 Teal#008080 Teal#008080 Lime#32CD32
+Default Bananarama type1 DimGray#696969 Crimson#DC143C Lime#32CD32 Lime#32CD32
+Default Empty type2 Icy#E0FFFF Gold#FF8C00 Teal#008080 Orchid#DA70D6
+Palm Bananarama type3 Brown#8B4513 Aquamarine#66CDAA DarkRed#8B0000 Aquamarine#66CDAA
+Spread Coconuts type1 Brown#8B4513 Lime#32CD32 Salmon#FA8072 Salmon#FA8072
+Default Bananarama type1 Brown#8B4513 Salmon#FA8072 Salmon#FA8072 Orchid#DA70D6
+Spread Coconuts type1 Icy#E0FFFF Green#008000 Lime#32CD32 Aquamarine#66CDAA
+Spread Bananarama type3 Brown#8B4513 Teal#008080 Chocolate#A0522D Aquamarine#66CDAA
+Default Empty type3 DimGray#696969 Orchid#DA70D6 DarkRed#8B0000 Teal#008080
+Pine Bananarama type2 Brown#8B4513 Teal#008080 Indigo#4B0082 Gold#FF8C00
+Default Apples type3 Brown#8B4513 Aquamarine#66CDAA Silver#A9A9A9 Green#008000
+Palm Bananarama type3 DimGray#696969 Lime#32CD32 Crimson#DC143C Gold#FF8C00
+Pine Apples type3 Brown#8B4513 Lime#32CD32 Lime#32CD32 Aquamarine#66CDAA
+Default Coconuts type1 Icy#E0FFFF Green#008000 Aquamarine#66CDAA Salmon#FA8072
+Palm Empty type1 Brown#8B4513 Lime#32CD32 Chocolate#A0522D Teal#008080
+Default Bananarama type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Salmon#FA8072
+Default Empty type1 Brown#8B4513 DarkRed#8B0000 Crimson#DC143C Indigo#4B0082
+Spread Empty type2 DimGray#696969 Lime#32CD32 Green#008000 Indigo#4B0082
+Default Peaches type2 DimGray#696969 Orchid#DA70D6 Orchid#DA70D6 Indigo#4B0082
+Pine Empty type1 Brown#8B4513 Salmon#FA8072 Green#008000 Green#008000
+Default Empty type1 Brown#8B4513 Salmon#FA8072 Salmon#FA8072 Teal#008080
+Default Coconuts type1 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Lime#32CD32
+Default Bananarama type1 DimGray#696969 Teal#008080 Lime#32CD32 Silver#A9A9A9
+Default Empty type2 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Salmon#FA8072
+Default Apples type1 Brown#8B4513 Salmon#FA8072 Salmon#FA8072 Aquamarine#66CDAA
+Pine Empty type3 Icy#E0FFFF Aquamarine#66CDAA DarkRed#8B0000 Teal#008080
+Spread Coconuts type1 DimGray#696969 Teal#008080 Crimson#DC143C Green#008000
+Pine Bananarama type3 OliveDrab#6B8E23 Lime#32CD32 Indigo#4B0082 Salmon#FA8072
+Default Coconuts type1 Brown#8B4513 Lime#32CD32 Indigo#4B0082 DarkRed#8B0000
+Pine Apples type2 Brown#8B4513 Aquamarine#66CDAA Silver#A9A9A9 Orchid#DA70D6
+Default Empty type1 Brown#8B4513 Lime#32CD32 Silver#A9A9A9 Green#008000
+Pine Bananarama type3 Brown#8B4513 Salmon#FA8072 Salmon#FA8072 Orchid#DA70D6
+Default Flowers type2 Brown#8B4513 Indigo#4B0082 DarkRed#8B0000 Salmon#FA8072
+Default Empty type2 Brown#8B4513 Teal#008080 Salmon#FA8072 Lime#32CD32
+Default Coconuts type2 DimGray#696969 Indigo#4B0082 Teal#008080 Salmon#FA8072
+Pine Coconuts type3 DimGray#696969 Lime#32CD32 Indigo#4B0082 Green#008000
+Pine Coconuts type3 OliveDrab#6B8E23 Teal#008080 Salmon#FA8072 Gold#FF8C00
+Default Empty type1 Brown#8B4513 Chocolate#A0522D Green#008000 Orchid#DA70D6
+Default Empty type1 Brown#8B4513 Orchid#DA70D6 Orchid#DA70D6 Crimson#DC143C
+Default X-Mas type3 OliveDrab#6B8E23 Salmon#FA8072 Aquamarine#66CDAA Orchid#DA70D6
+Palm Coconuts type1 DimGray#696969 Aquamarine#66CDAA Lime#32CD32 Indigo#4B0082
+Palm Coconuts type1 Brown#8B4513 Salmon#FA8072 Gold#FF8C00 Indigo#4B0082
+Pine Empty type3 DimGray#696969 Orchid#DA70D6 Crimson#DC143C Indigo#4B0082
+Default Apples type1 DimGray#696969 Indigo#4B0082 Teal#008080 Chocolate#A0522D
+Default Empty type1 Brown#8B4513 Orchid#DA70D6 Teal#008080 Green#008000
+Default Coconuts type3 DimGray#696969 Salmon#FA8072 Green#008000 Green#008000
+Default Bananarama type2 Icy#E0FFFF Salmon#FA8072 Lime#32CD32 Indigo#4B0082
+Default Flowers type1 Icy#E0FFFF Aquamarine#66CDAA Green#008000 Lime#32CD32
+Default Empty type3 Icy#E0FFFF Teal#008080 Salmon#FA8072 Aquamarine#66CDAA
+Pine Empty type2 Brown#8B4513 Teal#008080 Chocolate#A0522D Silver#A9A9A9
+Default Coconuts type3 OliveDrab#6B8E23 DarkRed#8B0000 Salmon#FA8072 Orchid#DA70D6
+Default Coconuts type1 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Orchid#DA70D6
+Default Empty type2 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 Indigo#4B0082
+Spread Peaches type3 Brown#8B4513 Teal#008080 Green#008000 Salmon#FA8072
+Default Bananarama type1 Brown#8B4513 Green#008000 Lime#32CD32 Lime#32CD32
+Spread Empty type2 DimGray#696969 Salmon#FA8072 Indigo#4B0082 Aquamarine#66CDAA
+Default Bananarama type3 Icy#E0FFFF Gold#FF8C00 Indigo#4B0082 DarkRed#8B0000
+Pine Empty type2 Brown#8B4513 Teal#008080 Lime#32CD32 Chocolate#A0522D
+Pine Peaches type3 Brown#8B4513 Green#008000 Indigo#4B0082 Teal#008080
+Pine Empty type1 OliveDrab#6B8E23 Indigo#4B0082 Crimson#DC143C DarkRed#8B0000
+Pine Coconuts type2 DimGray#696969 Lime#32CD32 Green#008000 Lime#32CD32
+Pine Bananarama type3 DimGray#696969 Aquamarine#66CDAA Orchid#DA70D6 Lime#32CD32
+Default Bananarama type3 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Green#008000
+Default Empty type3 DimGray#696969 DarkRed#8B0000 Lime#32CD32 Aquamarine#66CDAA
+Pine Empty type2 Brown#8B4513 Indigo#4B0082 Salmon#FA8072 Green#008000
+Palm Bananarama type1 DimGray#696969 Teal#008080 Silver#A9A9A9 Aquamarine#66CDAA
+Default Bananarama type1 Icy#E0FFFF Indigo#4B0082 Teal#008080 Green#008000
+Default Flowers type2 DimGray#696969 Green#008000 Orchid#DA70D6 Orchid#DA70D6
+Default Coconuts type1 DimGray#696969 Orchid#DA70D6 Chocolate#A0522D Indigo#4B0082
+Default Apples type1 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Indigo#4B0082
+Default Empty type3 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 Crimson#DC143C
+Pine Bananarama type3 DimGray#696969 Lime#32CD32 Lime#32CD32 Gold#FF8C00
+Palm Flowers type3 Brown#8B4513 Salmon#FA8072 Aquamarine#66CDAA Aquamarine#66CDAA
+Pine Bananarama type1 Brown#8B4513 Silver#A9A9A9 Lime#32CD32 Aquamarine#66CDAA
+Pine Peaches type2 Brown#8B4513 Salmon#FA8072 Teal#008080 Chocolate#A0522D
+Pine Bananarama type2 OliveDrab#6B8E23 Lime#32CD32 Aquamarine#66CDAA DarkRed#8B0000
+Spread Empty type2 Brown#8B4513 Orchid#DA70D6 Teal#008080 Silver#A9A9A9
+Default Empty type1 Icy#E0FFFF Indigo#4B0082 Lime#32CD32 Lime#32CD32
+Palm Empty type1 Brown#8B4513 DarkRed#8B0000 Salmon#FA8072 Salmon#FA8072
+Default Bananarama type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Crimson#DC143C
+Pine Coconuts type1 Brown#8B4513 Gold#FF8C00 Lime#32CD32 DarkRed#8B0000
+Pine Empty type1 Icy#E0FFFF Lime#32CD32 Silver#A9A9A9 DarkRed#8B0000
+Default Empty type2 Brown#8B4513 Indigo#4B0082 Indigo#4B0082 Orchid#DA70D6
+Default Bananarama type1 Brown#8B4513 Crimson#DC143C Lime#32CD32 DarkRed#8B0000
+Palm Empty type2 Brown#8B4513 Lime#32CD32 Teal#008080 Lime#32CD32
+Default Flowers type1 DimGray#696969 Crimson#DC143C Gold#FF8C00 Indigo#4B0082
+Default Empty type1 DimGray#696969 Lime#32CD32 Teal#008080 Green#008000
+Default Empty type1 OliveDrab#6B8E23 Aquamarine#66CDAA Gold#FF8C00 Silver#A9A9A9
+Pine X-Mas type3 DimGray#696969 Aquamarine#66CDAA Aquamarine#66CDAA Green#008000
+Default Empty type2 Brown#8B4513 Green#008000 Indigo#4B0082 Silver#A9A9A9
+Default Peaches type3 OliveDrab#6B8E23 Lime#32CD32 Aquamarine#66CDAA Gold#FF8C00
+Default Coconuts type3 DimGray#696969 Lime#32CD32 Indigo#4B0082 Silver#A9A9A9
+Default Bananarama type2 Brown#8B4513 Lime#32CD32 Silver#A9A9A9 Gold#FF8C00
+Pine Peaches type3 DimGray#696969 Green#008000 DarkRed#8B0000 Lime#32CD32
+Default Empty type1 DimGray#696969 DarkRed#8B0000 Salmon#FA8072 Chocolate#A0522D
+Default Bananarama type1 Icy#E0FFFF Aquamarine#66CDAA Green#008000 Lime#32CD32
+Pine Apples type1 DimGray#696969 Aquamarine#66CDAA Salmon#FA8072 DarkRed#8B0000
+Default Empty type1 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Orchid#DA70D6
+Default Empty type2 Icy#E0FFFF Indigo#4B0082 Lime#32CD32 Green#008000
+Spread Empty type3 Brown#8B4513 Aquamarine#66CDAA Teal#008080 Silver#A9A9A9
+Pine Peaches type1 DimGray#696969 Lime#32CD32 DarkRed#8B0000 Salmon#FA8072
+Pine Empty type1 Icy#E0FFFF Salmon#FA8072 Salmon#FA8072 Aquamarine#66CDAA
+Pine Bananarama type1 OliveDrab#6B8E23 Lime#32CD32 Indigo#4B0082 Lime#32CD32
+Default Coconuts type2 Icy#E0FFFF Teal#008080 Orchid#DA70D6 Lime#32CD32
+Default Empty type1 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Indigo#4B0082
+Spread Coconuts type2 Icy#E0FFFF Lime#32CD32 Teal#008080 Green#008000
+Pine Empty type1 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Teal#008080
+Pine Empty type1 Brown#8B4513 Silver#A9A9A9 Aquamarine#66CDAA Gold#FF8C00
+Pine Empty type2 Brown#8B4513 Crimson#DC143C DarkRed#8B0000 Teal#008080
+Palm Peaches type3 Brown#8B4513 Lime#32CD32 Lime#32CD32 DarkRed#8B0000
+Pine Empty type1 DimGray#696969 Silver#A9A9A9 Aquamarine#66CDAA Teal#008080
+Palm Flowers type1 Brown#8B4513 Salmon#FA8072 Orchid#DA70D6 Orchid#DA70D6
+Default Peaches type2 DimGray#696969 Lime#32CD32 Salmon#FA8072 Crimson#DC143C
+Default Bananarama type2 DimGray#696969 Orchid#DA70D6 Silver#A9A9A9 Salmon#FA8072
+Default X-Mas type1 Icy#E0FFFF Salmon#FA8072 DarkRed#8B0000 Salmon#FA8072
+Pine Empty type2 Brown#8B4513 Teal#008080 Aquamarine#66CDAA Silver#A9A9A9
+Default Coconuts type3 Brown#8B4513 Lime#32CD32 Indigo#4B0082 Teal#008080
+Default Apples type2 DimGray#696969 Silver#A9A9A9 Indigo#4B0082 Chocolate#A0522D
+Pine Peaches type1 Brown#8B4513 Green#008000 Lime#32CD32 Chocolate#A0522D
+Default Flowers type1 Brown#8B4513 DarkRed#8B0000 Salmon#FA8072 Green#008000
+Default Bananarama type1 Brown#8B4513 Lime#32CD32 Indigo#4B0082 Teal#008080
+Spread Coconuts type2 Icy#E0FFFF Indigo#4B0082 Chocolate#A0522D Indigo#4B0082
+Default Peaches type1 Brown#8B4513 Lime#32CD32 Indigo#4B0082 Crimson#DC143C
+Palm Apples type2 Brown#8B4513 Green#008000 Salmon#FA8072 Silver#A9A9A9
+Default Apples type2 Brown#8B4513 Lime#32CD32 Silver#A9A9A9 Teal#008080
+Pine Empty type1 Brown#8B4513 Lime#32CD32 Chocolate#A0522D Crimson#DC143C
+Default Coconuts type1 DimGray#696969 Indigo#4B0082 Aquamarine#66CDAA Teal#008080
+Default Empty type1 Brown#8B4513 DarkRed#8B0000 Indigo#4B0082 Salmon#FA8072
+Default Peaches type2 Brown#8B4513 Green#008000 Gold#FF8C00 Crimson#DC143C
+Default X-Mas type2 DimGray#696969 Indigo#4B0082 Lime#32CD32 Aquamarine#66CDAA
+Palm Empty type1 DimGray#696969 Gold#FF8C00 Lime#32CD32 Silver#A9A9A9
+Pine Apples type3 DimGray#696969 Salmon#FA8072 Gold#FF8C00 Lime#32CD32
+Default Bananarama type2 Brown#8B4513 Indigo#4B0082 Green#008000 Salmon#FA8072
+Pine Bananarama type1 OliveDrab#6B8E23 Silver#A9A9A9 Indigo#4B0082 Salmon#FA8072
+Default Apples type1 Brown#8B4513 Green#008000 Salmon#FA8072 Lime#32CD32
+Pine Apples type1 OliveDrab#6B8E23 Crimson#DC143C Salmon#FA8072 Green#008000
+Default Empty type1 Brown#8B4513 Green#008000 Lime#32CD32 Crimson#DC143C
+Default Flowers type2 Brown#8B4513 Orchid#DA70D6 Lime#32CD32 Lime#32CD32
+Default Coconuts type3 Brown#8B4513 Chocolate#A0522D Lime#32CD32 Green#008000
+Default Empty type1 DimGray#696969 Indigo#4B0082 Indigo#4B0082 Gold#FF8C00
+Default Apples type1 DimGray#696969 Aquamarine#66CDAA Lime#32CD32 Aquamarine#66CDAA
+Default Apples type3 Icy#E0FFFF Orchid#DA70D6 Indigo#4B0082 Lime#32CD32
+Default Peaches type2 Icy#E0FFFF Lime#32CD32 Lime#32CD32 Salmon#FA8072
+Pine X-Mas type1 Icy#E0FFFF Chocolate#A0522D Chocolate#A0522D Teal#008080
+Palm Bananarama type3 Brown#8B4513 Indigo#4B0082 Crimson#DC143C Indigo#4B0082
+Default Peaches type1 Brown#8B4513 DarkRed#8B0000 Orchid#DA70D6 Orchid#DA70D6
+Default Empty type1 Brown#8B4513 Indigo#4B0082 Salmon#FA8072 Indigo#4B0082
+Default Coconuts type2 Brown#8B4513 Teal#008080 Orchid#DA70D6 Orchid#DA70D6
+Default Bananarama type2 DimGray#696969 Chocolate#A0522D Teal#008080 Lime#32CD32
+Spread Empty type1 DimGray#696969 Salmon#FA8072 Crimson#DC143C Teal#008080
+Pine Peaches type1 DimGray#696969 Gold#FF8C00 Teal#008080 Green#008000
+Default Flowers type3 Brown#8B4513 Crimson#DC143C Lime#32CD32 Aquamarine#66CDAA
+Default Apples type1 Brown#8B4513 Orchid#DA70D6 Lime#32CD32 Lime#32CD32
+Palm Bananarama type1 Brown#8B4513 DarkRed#8B0000 Lime#32CD32 Lime#32CD32
+Palm Empty type2 DimGray#696969 Lime#32CD32 Indigo#4B0082 Crimson#DC143C
+Default Apples type1 DimGray#696969 Orchid#DA70D6 Salmon#FA8072 Lime#32CD32
+Default Empty type1 DimGray#696969 Green#008000 Teal#008080 Indigo#4B0082
+Default Flowers type1 DimGray#696969 Aquamarine#66CDAA Aquamarine#66CDAA Aquamarine#66CDAA
+Default Flowers type1 Brown#8B4513 Gold#FF8C00 Indigo#4B0082 Crimson#DC143C
+Spread Empty type3 Brown#8B4513 Green#008000 Crimson#DC143C Salmon#FA8072
+Pine Peaches type1 Brown#8B4513 Lime#32CD32 DarkRed#8B0000 Silver#A9A9A9
+Spread Coconuts type1 DimGray#696969 Lime#32CD32 Teal#008080 Lime#32CD32
+Spread Coconuts type1 Brown#8B4513 Lime#32CD32 Indigo#4B0082 Lime#32CD32
+Pine X-Mas type2 Brown#8B4513 Salmon#FA8072 Aquamarine#66CDAA Lime#32CD32
+Default Coconuts type1 OliveDrab#6B8E23 Aquamarine#66CDAA Teal#008080 Green#008000
+Pine Bananarama type1 OliveDrab#6B8E23 Lime#32CD32 Salmon#FA8072 Salmon#FA8072
+Default Flowers type3 Brown#8B4513 Indigo#4B0082 Teal#008080 Crimson#DC143C
+Default Bananarama type1 Icy#E0FFFF Gold#FF8C00 Aquamarine#66CDAA Silver#A9A9A9
+Default X-Mas type1 DimGray#696969 Green#008000 Silver#A9A9A9 Indigo#4B0082
+Default Apples type3 DimGray#696969 Orchid#DA70D6 Green#008000 Green#008000
+Pine Apples type1 Brown#8B4513 Teal#008080 Green#008000 Gold#FF8C00
+Spread Flowers type1 Icy#E0FFFF Salmon#FA8072 Crimson#DC143C Salmon#FA8072
+Pine Peaches type2 Brown#8B4513 Green#008000 Teal#008080 Salmon#FA8072
+Pine Peaches type1 DimGray#696969 Orchid#DA70D6 Silver#A9A9A9 Lime#32CD32
+Spread Peaches type3 OliveDrab#6B8E23 Teal#008080 Chocolate#A0522D DarkRed#8B0000
+Default Empty type1 DimGray#696969 Indigo#4B0082 Green#008000 Crimson#DC143C
+Default Peaches type1 Brown#8B4513 Teal#008080 Orchid#DA70D6 DarkRed#8B0000
+Default Apples type3 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Green#008000
+Pine Coconuts type3 Brown#8B4513 Indigo#4B0082 Indigo#4B0082 Teal#008080
+Default Empty type1 Brown#8B4513 Crimson#DC143C Silver#A9A9A9 Lime#32CD32
+Spread Bananarama type3 Icy#E0FFFF Teal#008080 Lime#32CD32 Indigo#4B0082
+Spread Bananarama type1 Brown#8B4513 Lime#32CD32 Chocolate#A0522D Lime#32CD32
+Pine Coconuts type1 Brown#8B4513 Crimson#DC143C Orchid#DA70D6 Indigo#4B0082
+Spread Coconuts type3 OliveDrab#6B8E23 Crimson#DC143C Teal#008080 Lime#32CD32
+Default Peaches type1 Brown#8B4513 DarkRed#8B0000 Aquamarine#66CDAA Crimson#DC143C
+Pine Peaches type2 Brown#8B4513 Lime#32CD32 Lime#32CD32 DarkRed#8B0000
+Pine Empty type2 DimGray#696969 Aquamarine#66CDAA Crimson#DC143C Teal#008080
+Default Apples type1 DimGray#696969 Teal#008080 DarkRed#8B0000 Salmon#FA8072
+Pine Bananarama type3 Brown#8B4513 Teal#008080 Silver#A9A9A9 Salmon#FA8072
+Default Empty type2 Icy#E0FFFF Lime#32CD32 Indigo#4B0082 Salmon#FA8072
+Pine Coconuts type1 Brown#8B4513 Orchid#DA70D6 Teal#008080 DarkRed#8B0000
+Spread Empty type1 Brown#8B4513 Lime#32CD32 Salmon#FA8072 Teal#008080
+Default Bananarama type1 DimGray#696969 DarkRed#8B0000 Lime#32CD32 DarkRed#8B0000
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Aquamarine#66CDAA Salmon#FA8072
+Spread Empty type2 OliveDrab#6B8E23 Orchid#DA70D6 Orchid#DA70D6 Salmon#FA8072
+Default Peaches type1 Brown#8B4513 Crimson#DC143C Lime#32CD32 Teal#008080
+Spread Apples type3 DimGray#696969 Chocolate#A0522D Teal#008080 Crimson#DC143C
+Default Apples type1 DimGray#696969 Teal#008080 Silver#A9A9A9 DarkRed#8B0000
+Default Coconuts type1 OliveDrab#6B8E23 Green#008000 Teal#008080 Aquamarine#66CDAA
+Default Coconuts type2 Brown#8B4513 Chocolate#A0522D DarkRed#8B0000 DarkRed#8B0000
+Default Empty type3 Brown#8B4513 Crimson#DC143C Crimson#DC143C Aquamarine#66CDAA
+Default Empty type3 DimGray#696969 Silver#A9A9A9 Lime#32CD32 Orchid#DA70D6
+Pine Empty type2 DimGray#696969 Orchid#DA70D6 Salmon#FA8072 Green#008000
+Default Apples type2 DimGray#696969 Indigo#4B0082 Aquamarine#66CDAA Chocolate#A0522D
+Pine Apples type1 Icy#E0FFFF Green#008000 Crimson#DC143C Teal#008080
+Pine Coconuts type3 DimGray#696969 Salmon#FA8072 Gold#FF8C00 Salmon#FA8072
+Default X-Mas type1 DimGray#696969 Orchid#DA70D6 Indigo#4B0082 Teal#008080
+Spread Coconuts type2 Brown#8B4513 Aquamarine#66CDAA Salmon#FA8072 DarkRed#8B0000
+Default Coconuts type2 DimGray#696969 Green#008000 Salmon#FA8072 Orchid#DA70D6
+Default Coconuts type1 Brown#8B4513 Gold#FF8C00 Orchid#DA70D6 Salmon#FA8072
+Pine Flowers type1 Brown#8B4513 Chocolate#A0522D Crimson#DC143C Aquamarine#66CDAA
+Default Apples type1 DimGray#696969 Teal#008080 Crimson#DC143C Chocolate#A0522D
+Spread Flowers type1 Brown#8B4513 Lime#32CD32 Salmon#FA8072 Teal#008080
+Default Empty type1 Brown#8B4513 Teal#008080 Orchid#DA70D6 DarkRed#8B0000
+Palm Empty type1 Brown#8B4513 Gold#FF8C00 Silver#A9A9A9 Crimson#DC143C
+Pine Coconuts type1 DimGray#696969 Teal#008080 Gold#FF8C00 Green#008000
+Default Empty type1 OliveDrab#6B8E23 DarkRed#8B0000 Gold#FF8C00 Orchid#DA70D6
+Pine Empty type1 DimGray#696969 Teal#008080 Gold#FF8C00 Chocolate#A0522D
+Default Bananarama type1 Brown#8B4513 Crimson#DC143C Orchid#DA70D6 Indigo#4B0082
+Pine Bananarama type2 Brown#8B4513 Teal#008080 Lime#32CD32 Indigo#4B0082
+Spread Peaches type1 Brown#8B4513 Chocolate#A0522D Chocolate#A0522D Lime#32CD32
+Pine Bananarama type1 DimGray#696969 Crimson#DC143C Silver#A9A9A9 DarkRed#8B0000
+Pine Empty type1 Icy#E0FFFF Lime#32CD32 DarkRed#8B0000 Lime#32CD32
+Pine Peaches type1 DimGray#696969 Indigo#4B0082 Silver#A9A9A9 Chocolate#A0522D
+Default Empty type2 DimGray#696969 Lime#32CD32 Lime#32CD32 Silver#A9A9A9
+Pine Bananarama type2 Icy#E0FFFF Gold#FF8C00 Green#008000 Green#008000
+Palm Flowers type3 Brown#8B4513 Salmon#FA8072 Salmon#FA8072 Teal#008080
+Default Empty type3 Brown#8B4513 Green#008000 Gold#FF8C00 Green#008000
+Default Empty type2 Brown#8B4513 Aquamarine#66CDAA Crimson#DC143C Teal#008080
+Default Empty type3 OliveDrab#6B8E23 Salmon#FA8072 Orchid#DA70D6 Salmon#FA8072
+Palm Apples type1 Brown#8B4513 Orchid#DA70D6 Chocolate#A0522D Green#008000
+Pine Coconuts type1 DimGray#696969 Salmon#FA8072 Lime#32CD32 Salmon#FA8072
+Pine Coconuts type1 Brown#8B4513 Salmon#FA8072 Teal#008080 Salmon#FA8072
+Palm Empty type1 DimGray#696969 Green#008000 Salmon#FA8072 Green#008000
+Spread Bananarama type3 Brown#8B4513 Gold#FF8C00 Crimson#DC143C Aquamarine#66CDAA
+Pine Flowers type1 Brown#8B4513 Teal#008080 Teal#008080 Salmon#FA8072
+Spread Coconuts type1 DimGray#696969 Indigo#4B0082 Green#008000 Lime#32CD32
+Default Apples type1 Brown#8B4513 Silver#A9A9A9 Lime#32CD32 Indigo#4B0082
+Default Bananarama type2 DimGray#696969 Lime#32CD32 Salmon#FA8072 Green#008000
+Spread Coconuts type1 Brown#8B4513 Aquamarine#66CDAA DarkRed#8B0000 Green#008000
+Pine Apples type1 Icy#E0FFFF Aquamarine#66CDAA Crimson#DC143C Orchid#DA70D6
+Default Empty type1 Icy#E0FFFF Indigo#4B0082 Aquamarine#66CDAA Aquamarine#66CDAA
+Pine Empty type2 Brown#8B4513 Lime#32CD32 Lime#32CD32 DarkRed#8B0000
+Pine Empty type1 Brown#8B4513 Teal#008080 Salmon#FA8072 Teal#008080
+Pine Empty type3 OliveDrab#6B8E23 Teal#008080 Teal#008080 Green#008000
+Palm Bananarama type1 DimGray#696969 Indigo#4B0082 Lime#32CD32 Orchid#DA70D6
+Pine Bananarama type3 Brown#8B4513 Lime#32CD32 DarkRed#8B0000 Gold#FF8C00
+Default Coconuts type1 DimGray#696969 Crimson#DC143C Orchid#DA70D6 Lime#32CD32
+Pine Peaches type1 OliveDrab#6B8E23 Chocolate#A0522D Lime#32CD32 Aquamarine#66CDAA
+Default Flowers type1 DimGray#696969 Crimson#DC143C DarkRed#8B0000 Salmon#FA8072
+Default Coconuts type3 Brown#8B4513 Teal#008080 Aquamarine#66CDAA Aquamarine#66CDAA
+Palm Empty type1 Brown#8B4513 Teal#008080 Orchid#DA70D6 Orchid#DA70D6
+Default Apples type2 DimGray#696969 Chocolate#A0522D Green#008000 Lime#32CD32
+Pine Empty type1 DimGray#696969 Lime#32CD32 Aquamarine#66CDAA Gold#FF8C00
+Palm Coconuts type1 Brown#8B4513 Indigo#4B0082 Salmon#FA8072 Lime#32CD32
+Spread Empty type2 Brown#8B4513 Lime#32CD32 Indigo#4B0082 Teal#008080
+Default Peaches type2 DimGray#696969 Teal#008080 Aquamarine#66CDAA Aquamarine#66CDAA
+Palm Empty type3 Brown#8B4513 Gold#FF8C00 Green#008000 DarkRed#8B0000
+Pine Apples type1 DimGray#696969 Chocolate#A0522D Lime#32CD32 Lime#32CD32
+Default Empty type3 DimGray#696969 Orchid#DA70D6 Crimson#DC143C Salmon#FA8072
+Spread X-Mas type2 Icy#E0FFFF Lime#32CD32 Aquamarine#66CDAA Lime#32CD32
+Spread Coconuts type1 DimGray#696969 Teal#008080 Green#008000 DarkRed#8B0000
+Default Bananarama type3 Brown#8B4513 Chocolate#A0522D DarkRed#8B0000 DarkRed#8B0000
+Pine Flowers type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Lime#32CD32
+Default Empty type3 Icy#E0FFFF Salmon#FA8072 Lime#32CD32 Gold#FF8C00
+Pine Apples type1 Brown#8B4513 Orchid#DA70D6 Orchid#DA70D6 Salmon#FA8072
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Indigo#4B0082 Lime#32CD32
+Palm Empty type3 Icy#E0FFFF DarkRed#8B0000 Aquamarine#66CDAA Crimson#DC143C
+Default Empty type1 Brown#8B4513 Crimson#DC143C DarkRed#8B0000 Crimson#DC143C
+Spread Bananarama type1 Brown#8B4513 Green#008000 Indigo#4B0082 Silver#A9A9A9
+Default Apples type1 DimGray#696969 Crimson#DC143C Aquamarine#66CDAA Crimson#DC143C
+Palm Peaches type3 DimGray#696969 DarkRed#8B0000 Green#008000 Lime#32CD32
+Default Peaches type1 Icy#E0FFFF Lime#32CD32 Orchid#DA70D6 Lime#32CD32
+Pine Flowers type3 Brown#8B4513 Crimson#DC143C Lime#32CD32 Crimson#DC143C
+Palm Peaches type2 DimGray#696969 Indigo#4B0082 Crimson#DC143C Salmon#FA8072
+Pine Apples type1 DimGray#696969 Aquamarine#66CDAA Teal#008080 Teal#008080
+Pine Peaches type3 Brown#8B4513 Teal#008080 Teal#008080 Indigo#4B0082
+Default Flowers type1 DimGray#696969 Salmon#FA8072 Silver#A9A9A9 Indigo#4B0082
+Default Peaches type1 Brown#8B4513 Salmon#FA8072 Indigo#4B0082 Indigo#4B0082
+Pine Peaches type1 DimGray#696969 Indigo#4B0082 Aquamarine#66CDAA Green#008000
+Pine Coconuts type1 DimGray#696969 Crimson#DC143C Chocolate#A0522D DarkRed#8B0000
+Default Coconuts type1 Brown#8B4513 Chocolate#A0522D Salmon#FA8072 Green#008000
+Pine Coconuts type1 Brown#8B4513 Silver#A9A9A9 Lime#32CD32 Gold#FF8C00
+Pine Apples type1 Brown#8B4513 Teal#008080 DarkRed#8B0000 Gold#FF8C00
+Default Peaches type3 Brown#8B4513 Gold#FF8C00 Teal#008080 Orchid#DA70D6
+Default Empty type3 DimGray#696969 Crimson#DC143C Teal#008080 Aquamarine#66CDAA
+Pine Peaches type1 Brown#8B4513 Teal#008080 Aquamarine#66CDAA DarkRed#8B0000
+Default Flowers type1 DimGray#696969 Crimson#DC143C Salmon#FA8072 Teal#008080
+Default Bananarama type2 Brown#8B4513 Silver#A9A9A9 Teal#008080 Salmon#FA8072
+Pine Coconuts type2 Brown#8B4513 Lime#32CD32 Salmon#FA8072 Crimson#DC143C
+Pine Empty type2 OliveDrab#6B8E23 Indigo#4B0082 Orchid#DA70D6 Indigo#4B0082
+Pine Empty type1 Brown#8B4513 Silver#A9A9A9 Indigo#4B0082 Lime#32CD32
+Default Coconuts type1 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Lime#32CD32
+Pine Bananarama type2 Brown#8B4513 DarkRed#8B0000 Aquamarine#66CDAA Lime#32CD32
+Pine Empty type3 DimGray#696969 Lime#32CD32 Green#008000 Aquamarine#66CDAA
+Pine Coconuts type1 Brown#8B4513 Lime#32CD32 Teal#008080 Lime#32CD32
+Pine Apples type2 Icy#E0FFFF Teal#008080 Crimson#DC143C Green#008000
+Default Peaches type1 Brown#8B4513 Lime#32CD32 DarkRed#8B0000 DarkRed#8B0000
+Palm Apples type1 DimGray#696969 Lime#32CD32 Aquamarine#66CDAA Lime#32CD32
+Default Peaches type1 DimGray#696969 Crimson#DC143C Salmon#FA8072 Indigo#4B0082
+Spread Empty type1 DimGray#696969 Indigo#4B0082 Gold#FF8C00 Aquamarine#66CDAA
+Palm Apples type1 Brown#8B4513 Silver#A9A9A9 Indigo#4B0082 Silver#A9A9A9
+Default Apples type1 OliveDrab#6B8E23 Chocolate#A0522D Salmon#FA8072 Indigo#4B0082
+Palm X-Mas type2 Brown#8B4513 Indigo#4B0082 Chocolate#A0522D Aquamarine#66CDAA
+Default Empty type2 Brown#8B4513 Chocolate#A0522D Aquamarine#66CDAA Aquamarine#66CDAA
+Spread Peaches type3 DimGray#696969 Orchid#DA70D6 Lime#32CD32 Lime#32CD32
+Pine Empty type1 DimGray#696969 Salmon#FA8072 Orchid#DA70D6 Green#008000
+Pine Empty type2 Brown#8B4513 Salmon#FA8072 Teal#008080 Lime#32CD32
+Default Apples type3 Icy#E0FFFF Silver#A9A9A9 Gold#FF8C00 Aquamarine#66CDAA
+Pine Bananarama type2 DimGray#696969 Orchid#DA70D6 Green#008000 Orchid#DA70D6
+Default Peaches type1 Brown#8B4513 Indigo#4B0082 Green#008000 Crimson#DC143C
+Spread Empty type3 DimGray#696969 Teal#008080 Silver#A9A9A9 Aquamarine#66CDAA
+Default Coconuts type3 Brown#8B4513 DarkRed#8B0000 Salmon#FA8072 Salmon#FA8072
+Default Empty type3 Brown#8B4513 DarkRed#8B0000 Salmon#FA8072 Chocolate#A0522D
+Pine Coconuts type1 Icy#E0FFFF Lime#32CD32 Crimson#DC143C Gold#FF8C00
+Pine Empty type1 DimGray#696969 Orchid#DA70D6 Crimson#DC143C Silver#A9A9A9
+Spread Apples type3 Brown#8B4513 Salmon#FA8072 Crimson#DC143C Salmon#FA8072
+Default Empty type3 DimGray#696969 Aquamarine#66CDAA Aquamarine#66CDAA Indigo#4B0082
+Default Apples type1 Brown#8B4513 Crimson#DC143C Orchid#DA70D6 Lime#32CD32
+Default Empty type2 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Chocolate#A0522D
+Default Bananarama type1 Brown#8B4513 DarkRed#8B0000 Salmon#FA8072 Chocolate#A0522D
+Pine Empty type3 Brown#8B4513 Silver#A9A9A9 Aquamarine#66CDAA Crimson#DC143C
+Default X-Mas type1 Brown#8B4513 Aquamarine#66CDAA DarkRed#8B0000 Salmon#FA8072
+Default Empty type2 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Silver#A9A9A9
+Default Empty type1 Brown#8B4513 Crimson#DC143C Salmon#FA8072 Teal#008080
+Palm Bananarama type1 Brown#8B4513 Lime#32CD32 DarkRed#8B0000 Aquamarine#66CDAA
+Pine Apples type1 DimGray#696969 Aquamarine#66CDAA Lime#32CD32 Salmon#FA8072
+Spread Bananarama type2 Icy#E0FFFF Crimson#DC143C Teal#008080 Lime#32CD32
+Pine Empty type2 Brown#8B4513 Teal#008080 Crimson#DC143C Orchid#DA70D6
+Palm Bananarama type3 Brown#8B4513 Green#008000 Salmon#FA8072 Orchid#DA70D6
+Default Apples type2 Brown#8B4513 Teal#008080 Indigo#4B0082 Salmon#FA8072
+Default Empty type3 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Indigo#4B0082
+Default Coconuts type1 DimGray#696969 Lime#32CD32 Salmon#FA8072 Green#008000
+Default Empty type3 Brown#8B4513 Teal#008080 DarkRed#8B0000 DarkRed#8B0000
+Spread Coconuts type2 Brown#8B4513 Lime#32CD32 DarkRed#8B0000 Teal#008080
+Default Apples type3 Icy#E0FFFF Crimson#DC143C Orchid#DA70D6 Teal#008080
+Palm Apples type1 DimGray#696969 Silver#A9A9A9 Salmon#FA8072 Salmon#FA8072
+Default Coconuts type1 DimGray#696969 Green#008000 Gold#FF8C00 Teal#008080
+Pine Empty type3 Brown#8B4513 Teal#008080 Teal#008080 Crimson#DC143C
+Spread Empty type1 Brown#8B4513 Salmon#FA8072 Green#008000 Aquamarine#66CDAA
+Pine Empty type1 Brown#8B4513 Indigo#4B0082 Green#008000 Lime#32CD32
+Default Coconuts type1 Brown#8B4513 Gold#FF8C00 Crimson#DC143C Salmon#FA8072
+Default Empty type1 OliveDrab#6B8E23 DarkRed#8B0000 Crimson#DC143C Aquamarine#66CDAA
+Default Bananarama type1 DimGray#696969 Teal#008080 Salmon#FA8072 Teal#008080
+Pine Coconuts type1 OliveDrab#6B8E23 Salmon#FA8072 Chocolate#A0522D Aquamarine#66CDAA
+Pine Apples type1 Icy#E0FFFF Indigo#4B0082 Green#008000 Indigo#4B0082
+Pine Peaches type1 Brown#8B4513 Indigo#4B0082 Salmon#FA8072 Lime#32CD32
+Default Coconuts type3 DimGray#696969 Orchid#DA70D6 Lime#32CD32 Chocolate#A0522D
+Default Apples type2 DimGray#696969 Lime#32CD32 Crimson#DC143C Lime#32CD32
+Pine Empty type3 DimGray#696969 Teal#008080 Crimson#DC143C Indigo#4B0082
+Default Empty type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Teal#008080
+Default Apples type1 Brown#8B4513 DarkRed#8B0000 Indigo#4B0082 Green#008000
+Default Bananarama type1 Icy#E0FFFF Aquamarine#66CDAA DarkRed#8B0000 Salmon#FA8072
+Default Empty type2 OliveDrab#6B8E23 Crimson#DC143C Indigo#4B0082 Green#008000
+Pine Empty type3 Brown#8B4513 Salmon#FA8072 Teal#008080 Aquamarine#66CDAA
+Pine Bananarama type1 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Lime#32CD32
+Default Empty type1 DimGray#696969 Salmon#FA8072 DarkRed#8B0000 Aquamarine#66CDAA
+Default Apples type1 Brown#8B4513 Salmon#FA8072 Teal#008080 Crimson#DC143C
+Pine Empty type2 Brown#8B4513 Teal#008080 Green#008000 Aquamarine#66CDAA
+Pine Apples type1 Brown#8B4513 Teal#008080 Aquamarine#66CDAA Lime#32CD32
+Default Apples type2 Brown#8B4513 Teal#008080 Indigo#4B0082 Gold#FF8C00
+Default Peaches type1 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Crimson#DC143C
+Spread Empty type3 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Lime#32CD32
+Pine Empty type1 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 Teal#008080
+Pine Apples type1 Brown#8B4513 Gold#FF8C00 Indigo#4B0082 Teal#008080
+Default Bananarama type2 Brown#8B4513 Lime#32CD32 Teal#008080 Lime#32CD32
+Default Bananarama type3 Brown#8B4513 Orchid#DA70D6 Teal#008080 Teal#008080
+Default Empty type1 Icy#E0FFFF Aquamarine#66CDAA Teal#008080 Green#008000
+Pine Bananarama type1 Icy#E0FFFF Indigo#4B0082 Crimson#DC143C DarkRed#8B0000
+Spread Apples type1 DimGray#696969 Silver#A9A9A9 DarkRed#8B0000 Green#008000
+Palm Peaches type1 Brown#8B4513 Teal#008080 Indigo#4B0082 DarkRed#8B0000
+Default Coconuts type1 DimGray#696969 Aquamarine#66CDAA Green#008000 Indigo#4B0082
+Default Peaches type1 Brown#8B4513 Indigo#4B0082 Green#008000 Indigo#4B0082
+Spread Coconuts type2 Icy#E0FFFF Aquamarine#66CDAA Orchid#DA70D6 Teal#008080
+Palm Coconuts type3 DimGray#696969 Crimson#DC143C Salmon#FA8072 Orchid#DA70D6
+Default Coconuts type1 DimGray#696969 Aquamarine#66CDAA Aquamarine#66CDAA Indigo#4B0082
+Pine Flowers type3 DimGray#696969 Salmon#FA8072 Aquamarine#66CDAA Indigo#4B0082
+Pine Peaches type2 Brown#8B4513 Gold#FF8C00 Crimson#DC143C Indigo#4B0082
+Default Coconuts type1 Brown#8B4513 Crimson#DC143C Crimson#DC143C Lime#32CD32
+Pine Bananarama type1 Brown#8B4513 Crimson#DC143C DarkRed#8B0000 Salmon#FA8072
+Default Peaches type2 Brown#8B4513 Chocolate#A0522D Silver#A9A9A9 Green#008000
+Palm Empty type3 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Lime#32CD32
+Default Apples type1 Brown#8B4513 Aquamarine#66CDAA Crimson#DC143C Silver#A9A9A9
+Pine Empty type3 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Indigo#4B0082
+Default Bananarama type1 Brown#8B4513 Aquamarine#66CDAA Lime#32CD32 Lime#32CD32
+Pine Empty type2 Icy#E0FFFF Teal#008080 Gold#FF8C00 Crimson#DC143C
+Default Empty type1 DimGray#696969 Silver#A9A9A9 Lime#32CD32 Gold#FF8C00
+Default Apples type2 OliveDrab#6B8E23 Lime#32CD32 Lime#32CD32 Lime#32CD32
+Pine Peaches type1 Brown#8B4513 Lime#32CD32 Green#008000 Green#008000
+Default Empty type1 Brown#8B4513 Green#008000 Lime#32CD32 Lime#32CD32
+Default Coconuts type3 DimGray#696969 Aquamarine#66CDAA Lime#32CD32 Teal#008080
+Default Peaches type2 Icy#E0FFFF Lime#32CD32 Gold#FF8C00 Lime#32CD32
+Default Bananarama type1 Brown#8B4513 Salmon#FA8072 Salmon#FA8072 Lime#32CD32
+Spread Empty type1 Brown#8B4513 Green#008000 Green#008000 Salmon#FA8072
+Spread Coconuts type1 Brown#8B4513 DarkRed#8B0000 Indigo#4B0082 Salmon#FA8072
+Default Empty type1 Brown#8B4513 Indigo#4B0082 Teal#008080 Aquamarine#66CDAA
+Spread Coconuts type3 Brown#8B4513 Crimson#DC143C Chocolate#A0522D Teal#008080
+Palm Empty type1 DimGray#696969 Crimson#DC143C Indigo#4B0082 Indigo#4B0082
+Spread X-Mas type2 Brown#8B4513 Orchid#DA70D6 Lime#32CD32 Indigo#4B0082
+Spread Peaches type1 Brown#8B4513 Orchid#DA70D6 Lime#32CD32 Salmon#FA8072
+Pine Bananarama type3 Brown#8B4513 Teal#008080 Gold#FF8C00 Indigo#4B0082
+Default Empty type1 Icy#E0FFFF Orchid#DA70D6 Lime#32CD32 Lime#32CD32
+Default Empty type3 OliveDrab#6B8E23 Teal#008080 Green#008000 Gold#FF8C00
+Default Coconuts type1 Icy#E0FFFF Lime#32CD32 Teal#008080 Lime#32CD32
+Pine Bananarama type1 Brown#8B4513 DarkRed#8B0000 Salmon#FA8072 DarkRed#8B0000
+Pine Empty type3 Brown#8B4513 Teal#008080 Gold#FF8C00 Teal#008080
+Spread Empty type2 Brown#8B4513 Lime#32CD32 Lime#32CD32 DarkRed#8B0000
+Default Bananarama type2 DimGray#696969 Lime#32CD32 Aquamarine#66CDAA Crimson#DC143C
+Spread Apples type2 Brown#8B4513 Aquamarine#66CDAA Indigo#4B0082 Gold#FF8C00
+Palm Empty type3 DimGray#696969 Salmon#FA8072 DarkRed#8B0000 Crimson#DC143C
+Pine Apples type3 DimGray#696969 Teal#008080 Chocolate#A0522D Salmon#FA8072
+Spread Flowers type1 Brown#8B4513 Crimson#DC143C Green#008000 Indigo#4B0082
+Palm Coconuts type3 Icy#E0FFFF Aquamarine#66CDAA Orchid#DA70D6 Teal#008080
+Default Peaches type3 DimGray#696969 Salmon#FA8072 Lime#32CD32 Salmon#FA8072
+Spread Coconuts type1 Brown#8B4513 Lime#32CD32 Lime#32CD32 Lime#32CD32
+Default Empty type3 Brown#8B4513 DarkRed#8B0000 DarkRed#8B0000 Teal#008080
+Default Apples type1 Brown#8B4513 Orchid#DA70D6 Indigo#4B0082 Salmon#FA8072
+Default Empty type1 Brown#8B4513 Indigo#4B0082 Lime#32CD32 Green#008000
+Pine Empty type3 DimGray#696969 Orchid#DA70D6 Aquamarine#66CDAA Salmon#FA8072
+Pine X-Mas type2 Brown#8B4513 Indigo#4B0082 Salmon#FA8072 Lime#32CD32
+Default Bananarama type3 Brown#8B4513 Aquamarine#66CDAA Salmon#FA8072 Salmon#FA8072
+Pine Empty type1 Icy#E0FFFF Lime#32CD32 Aquamarine#66CDAA DarkRed#8B0000
+Spread Empty type2 Brown#8B4513 Chocolate#A0522D Indigo#4B0082 Orchid#DA70D6
+Pine Coconuts type1 DimGray#696969 Indigo#4B0082 Gold#FF8C00 Lime#32CD32
+Default Empty type1 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Aquamarine#66CDAA
+Pine Bananarama type2 Brown#8B4513 Indigo#4B0082 Lime#32CD32 Aquamarine#66CDAA
+Default Apples type3 DimGray#696969 Crimson#DC143C Green#008000 Green#008000
+Default Bananarama type1 Brown#8B4513 Green#008000 Aquamarine#66CDAA Chocolate#A0522D
+Palm Apples type3 Brown#8B4513 Lime#32CD32 DarkRed#8B0000 Gold#FF8C00
+Pine Coconuts type1 Brown#8B4513 Aquamarine#66CDAA Silver#A9A9A9 DarkRed#8B0000
+Pine Apples type3 Brown#8B4513 Orchid#DA70D6 Teal#008080 Green#008000
+Default X-Mas type2 Brown#8B4513 Orchid#DA70D6 Teal#008080 Teal#008080
+Spread Coconuts type1 OliveDrab#6B8E23 Indigo#4B0082 Lime#32CD32 Teal#008080
+Default X-Mas type3 DimGray#696969 Lime#32CD32 DarkRed#8B0000 Salmon#FA8072
+Pine Peaches type1 Brown#8B4513 DarkRed#8B0000 Green#008000 Silver#A9A9A9
+Pine Bananarama type2 Brown#8B4513 Lime#32CD32 Teal#008080 Crimson#DC143C
+Default Apples type1 Brown#8B4513 Gold#FF8C00 Lime#32CD32 Salmon#FA8072
+Pine Bananarama type1 Brown#8B4513 Crimson#DC143C Lime#32CD32 Orchid#DA70D6
+Default X-Mas type3 DimGray#696969 Indigo#4B0082 Silver#A9A9A9 Lime#32CD32
+Pine Empty type3 OliveDrab#6B8E23 Silver#A9A9A9 Lime#32CD32 Lime#32CD32
+Default Bananarama type3 Brown#8B4513 Indigo#4B0082 Orchid#DA70D6 Aquamarine#66CDAA
+Default Flowers type1 DimGray#696969 Crimson#DC143C Teal#008080 Chocolate#A0522D
+Default Empty type1 Icy#E0FFFF Indigo#4B0082 Green#008000 Silver#A9A9A9
+Default Empty type1 Brown#8B4513 Green#008000 Green#008000 Crimson#DC143C
+Default Coconuts type1 Brown#8B4513 Indigo#4B0082 Indigo#4B0082 Lime#32CD32
+Pine Flowers type3 Brown#8B4513 Chocolate#A0522D DarkRed#8B0000 Silver#A9A9A9
+Pine Apples type1 DimGray#696969 Lime#32CD32 Teal#008080 Salmon#FA8072
+Pine Apples type2 Brown#8B4513 Aquamarine#66CDAA Chocolate#A0522D Teal#008080
+Pine Empty type1 Brown#8B4513 Lime#32CD32 Green#008000 Crimson#DC143C
+Spread Peaches type3 Brown#8B4513 Aquamarine#66CDAA Orchid#DA70D6 Crimson#DC143C
+Pine Apples type3 Brown#8B4513 DarkRed#8B0000 Aquamarine#66CDAA Lime#32CD32
+Default Empty type3 Brown#8B4513 Silver#A9A9A9 Orchid#DA70D6 Teal#008080
+Default Coconuts type3 DimGray#696969 DarkRed#8B0000 Crimson#DC143C Lime#32CD32
+Default Empty type3 Brown#8B4513 Salmon#FA8072 Crimson#DC143C Green#008000
+Pine Empty type2 Brown#8B4513 Lime#32CD32 Green#008000 Gold#FF8C00
+Palm Empty type1 Icy#E0FFFF Crimson#DC143C Orchid#DA70D6 Teal#008080
+Default Coconuts type1 Brown#8B4513 Lime#32CD32 Orchid#DA70D6 Salmon#FA8072
+Default Empty type1 Icy#E0FFFF Aquamarine#66CDAA Salmon#FA8072 Green#008000
+Pine Peaches type1 DimGray#696969 Green#008000 DarkRed#8B0000 Indigo#4B0082
+Palm Empty type1 Brown#8B4513 Silver#A9A9A9 Orchid#DA70D6 Salmon#FA8072
+Pine Empty type1 DimGray#696969 Chocolate#A0522D Gold#FF8C00 Orchid#DA70D6
+Default Apples type1 Brown#8B4513 Green#008000 Salmon#FA8072 Aquamarine#66CDAA
+Default Peaches type1 DimGray#696969 Green#008000 Gold#FF8C00 Aquamarine#66CDAA
+Default Empty type2 DimGray#696969 Indigo#4B0082 Lime#32CD32 Lime#32CD32
+Pine Empty type1 Icy#E0FFFF Indigo#4B0082 Indigo#4B0082 Green#008000
+Pine Apples type3 DimGray#696969 Teal#008080 Gold#FF8C00 Orchid#DA70D6
+Spread Empty type2 Brown#8B4513 Lime#32CD32 Lime#32CD32 Salmon#FA8072
+Default Flowers type1 OliveDrab#6B8E23 Lime#32CD32 Teal#008080 Gold#FF8C00
+Default Coconuts type1 Brown#8B4513 Green#008000 Green#008000 Orchid#DA70D6
+Palm Empty type1 Brown#8B4513 DarkRed#8B0000 Lime#32CD32 Green#008000
+Default Coconuts type2 DimGray#696969 Aquamarine#66CDAA Chocolate#A0522D Aquamarine#66CDAA
+Default Empty type3 Brown#8B4513 Silver#A9A9A9 Teal#008080 Aquamarine#66CDAA
+Pine Bananarama type2 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Aquamarine#66CDAA
+Pine Bananarama type3 DimGray#696969 Teal#008080 Green#008000 Lime#32CD32
+Pine Apples type2 DimGray#696969 Green#008000 Gold#FF8C00 Indigo#4B0082
+Default Coconuts type1 Icy#E0FFFF Green#008000 Teal#008080 Teal#008080
+Default Flowers type2 OliveDrab#6B8E23 Lime#32CD32 Indigo#4B0082 Indigo#4B0082
+Spread Apples type2 Brown#8B4513 Lime#32CD32 Teal#008080 Indigo#4B0082
+Default Bananarama type2 DimGray#696969 Salmon#FA8072 Lime#32CD32 Teal#008080
+Default Bananarama type1 Icy#E0FFFF Teal#008080 Green#008000 Teal#008080
+Palm Empty type1 OliveDrab#6B8E23 Teal#008080 Indigo#4B0082 Lime#32CD32
+Default X-Mas type3 Brown#8B4513 Orchid#DA70D6 Salmon#FA8072 Lime#32CD32
+Default Apples type1 DimGray#696969 Teal#008080 Silver#A9A9A9 Green#008000
+Pine Empty type1 OliveDrab#6B8E23 Indigo#4B0082 Salmon#FA8072 Green#008000
+Pine Empty type2 Brown#8B4513 Green#008000 Teal#008080 Orchid#DA70D6
+Default Peaches type2 DimGray#696969 Chocolate#A0522D Lime#32CD32 Teal#008080
+Default Coconuts type1 Brown#8B4513 DarkRed#8B0000 Aquamarine#66CDAA Indigo#4B0082
+Default Empty type3 Brown#8B4513 Lime#32CD32 Teal#008080 Salmon#FA8072
+Pine Empty type1 Brown#8B4513 Indigo#4B0082 Salmon#FA8072 Green#008000
+Pine Empty type2 DimGray#696969 Indigo#4B0082 Aquamarine#66CDAA Indigo#4B0082
+Pine Coconuts type1 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Orchid#DA70D6
+Default Empty type1 Brown#8B4513 Salmon#FA8072 Orchid#DA70D6 DarkRed#8B0000
+Pine Bananarama type2 DimGray#696969 Lime#32CD32 Teal#008080 Indigo#4B0082
+Spread Coconuts type3 Brown#8B4513 Salmon#FA8072 Lime#32CD32 Green#008000
+Palm Coconuts type2 Brown#8B4513 Salmon#FA8072 Chocolate#A0522D Lime#32CD32
+Pine Apples type2 Brown#8B4513 Lime#32CD32 Silver#A9A9A9 DarkRed#8B0000
+Default Empty type3 DimGray#696969 Indigo#4B0082 Green#008000 Lime#32CD32
+Default Peaches type3 OliveDrab#6B8E23 Teal#008080 Lime#32CD32 Green#008000
+Default Bananarama type1 DimGray#696969 Teal#008080 Lime#32CD32 Lime#32CD32
+Default Empty type1 Brown#8B4513 Aquamarine#66CDAA Crimson#DC143C DarkRed#8B0000
+Default Flowers type2 DimGray#696969 Lime#32CD32 DarkRed#8B0000 Salmon#FA8072
+Palm Bananarama type3 Brown#8B4513 Lime#32CD32 Lime#32CD32 Gold#FF8C00
+Default Empty type2 DimGray#696969 Silver#A9A9A9 DarkRed#8B0000 Teal#008080
+Default Apples type1 DimGray#696969 Chocolate#A0522D Orchid#DA70D6 Indigo#4B0082
+Default Apples type3 Brown#8B4513 Salmon#FA8072 Indigo#4B0082 Orchid#DA70D6
+Default Peaches type1 Brown#8B4513 Salmon#FA8072 Teal#008080 Lime#32CD32
+Spread Empty type3 Brown#8B4513 Lime#32CD32 Gold#FF8C00 Orchid#DA70D6
+Default Peaches type1 DimGray#696969 Salmon#FA8072 Salmon#FA8072 DarkRed#8B0000
+Default X-Mas type1 DimGray#696969 DarkRed#8B0000 Indigo#4B0082 Salmon#FA8072
+Default Coconuts type1 DimGray#696969 Teal#008080 Salmon#FA8072 Salmon#FA8072
+Pine Bananarama type1 Brown#8B4513 Lime#32CD32 Salmon#FA8072 Orchid#DA70D6
+Default Flowers type2 Brown#8B4513 Aquamarine#66CDAA DarkRed#8B0000 Crimson#DC143C
+Pine Bananarama type2 OliveDrab#6B8E23 Teal#008080 Teal#008080 Salmon#FA8072
+Default Empty type3 OliveDrab#6B8E23 Chocolate#A0522D Salmon#FA8072 Indigo#4B0082
+Default Apples type3 OliveDrab#6B8E23 Orchid#DA70D6 Green#008000 Aquamarine#66CDAA
+Palm Empty type3 Icy#E0FFFF Aquamarine#66CDAA DarkRed#8B0000 Green#008000
+Default Apples type1 Icy#E0FFFF Lime#32CD32 DarkRed#8B0000 Lime#32CD32
+Default Flowers type3 Brown#8B4513 Teal#008080 Lime#32CD32 Aquamarine#66CDAA
+Pine Bananarama type1 DimGray#696969 Lime#32CD32 Indigo#4B0082 Indigo#4B0082
+Spread Empty type2 Brown#8B4513 Green#008000 Salmon#FA8072 Lime#32CD32
+Spread Flowers type1 DimGray#696969 Aquamarine#66CDAA Green#008000 Aquamarine#66CDAA
+Pine Empty type1 Brown#8B4513 Orchid#DA70D6 Indigo#4B0082 Teal#008080
+Default Coconuts type1 Brown#8B4513 Indigo#4B0082 Aquamarine#66CDAA Orchid#DA70D6
+Pine X-Mas type2 Brown#8B4513 Salmon#FA8072 Chocolate#A0522D Teal#008080
+Pine Coconuts type3 DimGray#696969 Orchid#DA70D6 Teal#008080 Chocolate#A0522D
+Default Empty type2 DimGray#696969 Indigo#4B0082 Aquamarine#66CDAA Lime#32CD32
+Default Bananarama type1 DimGray#696969 Salmon#FA8072 Lime#32CD32 Orchid#DA70D6
+Pine Empty type1 Icy#E0FFFF Aquamarine#66CDAA Salmon#FA8072 Silver#A9A9A9
+Default Coconuts type3 DimGray#696969 Chocolate#A0522D Green#008000 Crimson#DC143C
+Default Apples type2 Brown#8B4513 Silver#A9A9A9 Orchid#DA70D6 Orchid#DA70D6
+Default Peaches type3 Brown#8B4513 Indigo#4B0082 Teal#008080 Indigo#4B0082
+Pine Empty type1 Icy#E0FFFF Silver#A9A9A9 Aquamarine#66CDAA Aquamarine#66CDAA
+Default Coconuts type1 DimGray#696969 Teal#008080 Lime#32CD32 Green#008000
+Pine Coconuts type3 Brown#8B4513 Salmon#FA8072 Aquamarine#66CDAA Lime#32CD32
+Palm Empty type1 Icy#E0FFFF Orchid#DA70D6 Indigo#4B0082 Lime#32CD32
+Default Apples type3 DimGray#696969 Lime#32CD32 Lime#32CD32 Lime#32CD32
+Default Apples type3 OliveDrab#6B8E23 Orchid#DA70D6 Crimson#DC143C Indigo#4B0082
+Default Coconuts type1 Icy#E0FFFF Indigo#4B0082 Crimson#DC143C Lime#32CD32
+Default Empty type1 Icy#E0FFFF Salmon#FA8072 Chocolate#A0522D Crimson#DC143C
+Pine Empty type1 Brown#8B4513 Orchid#DA70D6 Green#008000 Indigo#4B0082
+Spread Bananarama type1 DimGray#696969 Silver#A9A9A9 Green#008000 Lime#32CD32
+Default Peaches type1 Icy#E0FFFF Lime#32CD32 Silver#A9A9A9 Chocolate#A0522D
+Palm Peaches type1 Brown#8B4513 Teal#008080 Orchid#DA70D6 Lime#32CD32
+Default Flowers type3 DimGray#696969 Lime#32CD32 Salmon#FA8072 Green#008000
+Default Flowers type2 Brown#8B4513 Salmon#FA8072 Salmon#FA8072 Teal#008080
+Default Bananarama type2 Icy#E0FFFF Salmon#FA8072 Crimson#DC143C Salmon#FA8072
+Default Empty type1 Brown#8B4513 Aquamarine#66CDAA Crimson#DC143C Teal#008080
+Default Empty type1 OliveDrab#6B8E23 Lime#32CD32 Salmon#FA8072 Salmon#FA8072
+Default Empty type1 Brown#8B4513 Lime#32CD32 Crimson#DC143C Indigo#4B0082
+Default Empty type3 Icy#E0FFFF Green#008000 DarkRed#8B0000 Salmon#FA8072
+Palm Bananarama type1 DimGray#696969 Lime#32CD32 Lime#32CD32 Indigo#4B0082
+Default Empty type3 Icy#E0FFFF Salmon#FA8072 Salmon#FA8072 Aquamarine#66CDAA

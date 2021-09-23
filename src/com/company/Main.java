@@ -2,16 +2,16 @@ package com.company;
 
 import com.company.objects.Object;
 
+import java.awt.*;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Collections;
-import java.util.Random;
-import java.util.Vector;
+import java.util.*;
 
 public class Main {
 
     public static void main(String[] args) {
-        int amount = 1000;
+        int amount = 1050;
+        int endAmount = 1000;
 
         // --- LEAVES --- //
         Vector<Object> leaf = new Vector<>();
@@ -20,8 +20,7 @@ public class Main {
         leaf.add(new Object("Spread",10));
         leaf.add(new Object("Palm",10));
 
-        Vector<String> endLeaf = new Vector<>();
-        endLeaf = getEnd(leaf,amount);
+        Vector<String> endLeaf = getEnd(leaf,amount);
 
         // --- SCAMFRUITS --- //
         Vector<Object> scamFruits = new Vector<>();
@@ -33,8 +32,15 @@ public class Main {
         scamFruits.add(new Object("Flowers",7));
         scamFruits.add(new Object("X-Mas",3));
 
-        Vector<String> endScamFruits = new Vector<>();
-        endScamFruits = getEnd(scamFruits, amount);
+        Vector<String> endScamFruits = getEnd(scamFruits, amount);
+
+        // --- ISLANDS --- //
+        Vector<Object> islands = new Vector<>();
+        islands.add(new Object("type1",50));
+        islands.add(new Object("type2",25));
+        islands.add(new Object("type3",25));
+
+        Vector<String> endIslands = getEnd(islands, amount);
 
         // --- DIRT COLORS --- //
         Vector<Object> dirtColors = new Vector<>();
@@ -43,12 +49,11 @@ public class Main {
         dirtColors.add(new Object("Icy#E0FFFF",12));
         dirtColors.add(new Object("OliveDrab#6B8E23",8));
 
-        Vector<String> endDirtColors = new Vector<>();
-        endDirtColors = getEnd(dirtColors, amount);
+        Vector<String> endDirtColors = getEnd(dirtColors, amount);
 
         // --- PLANT COLORS --- //
         Vector<Object> plantColors = new Vector<>();
-        plantColors.add(new Object("Salmon##FA8072",11));
+        plantColors.add(new Object("Salmon#FA8072",11));
         plantColors.add(new Object("Crimson#DC143C",7));
         plantColors.add(new Object("DarkRed#8B0000",6));
 
@@ -66,10 +71,35 @@ public class Main {
         plantColors.add(new Object("Silver#A9A9A9",4));
         plantColors.add(new Object("Chocolate#A0522D",4));
 
-        Vector<String> endPlantColors = new Vector<>();
-        endPlantColors = getEnd(plantColors, amount);
+        Vector<String> endPlantColors = getEnd(plantColors, amount);
 
-        getOutput(endLeaf,endScamFruits,endDirtColors,endPlantColors,amount);
+        // --- LEAVES COLORS --- //
+        Vector<Object> leavesColors = new Vector<>();
+        leavesColors.add(new Object("Salmon#FA8072",11));
+        leavesColors.add(new Object("Crimson#DC143C",7));
+        leavesColors.add(new Object("DarkRed#8B0000",6));
+
+        leavesColors.add(new Object("Lime#32CD32",11));
+        leavesColors.add(new Object("Green#008000",9));
+
+        leavesColors.add(new Object("Teal#008080",11));
+        leavesColors.add(new Object("Aquamarine#66CDAA",9));
+
+        leavesColors.add(new Object("Indigo#4B0082",11));
+        leavesColors.add(new Object("Orchid#DA70D6",7));
+        leavesColors.add(new Object("Lime#32CD32",6));
+
+        leavesColors.add(new Object("Gold#FF8C00",4));
+        leavesColors.add(new Object("Silver#A9A9A9",4));
+        leavesColors.add(new Object("Chocolate#A0522D",4));
+
+        Vector<String> endLeavesColors = getEnd(leavesColors, amount);
+
+        // --- BACKGROUND COLORS --- //
+        Vector<Object> backgroundColors = leavesColors;
+        Vector<String> endBackgroundColors  = getEnd(backgroundColors, amount);
+
+        getOutput(endLeaf,endScamFruits,endDirtColors,endPlantColors,endLeavesColors,endBackgroundColors,endIslands,amount,endAmount);
     }
 
     public static Vector<String> getEnd(Vector<Object> input, int amount){
@@ -82,18 +112,38 @@ public class Main {
             }
         }
 
+
+        for(int i=0;i<input.size();i++)
         Collections.shuffle(end,new Random());
         return end;
     }
 
     public static void getOutput(Vector<String> endLeaf, Vector<String> endScamFruits,
-                                 Vector<String> endDirtColors, Vector<String> endPlantColors, int amount) {
+                                 Vector<String> endDirtColors, Vector<String> endPlantColors,
+                                 Vector<String> endLeavesColors,Vector<String> endBackgroundColors,
+                                 Vector<String> endIslands,
+                                 int amount,int endAmount) {
 
         try (FileWriter output = new FileWriter("output.txt", false)) {
+            Vector<String> outputVec = new Vector<>();
             for (int i=0;i<amount;i++){
-                output.write(endLeaf.get(i) + " " + endScamFruits.get(i) + " " +
-                        endDirtColors.get(i) + " " + endPlantColors.get(i));
-                output.append('\n');
+                outputVec.add(endLeaf.get(i) + " " + endScamFruits.get(i) + " " + endIslands.get(i) + " " +
+                        endDirtColors.get(i) + " " + endPlantColors.get(i) + " " +
+                        endLeavesColors.get(i) + " " + endBackgroundColors.get(i));
+            }
+
+            LinkedHashSet<String> outputVec2 = new LinkedHashSet<String>( outputVec );
+
+            //clear the vector
+            outputVec.clear();
+
+            //add all unique elements back to the vector
+            outputVec.addAll(outputVec2);
+
+            int b = 1+1;
+            for (int i=0;i<endAmount;i++){
+                output.write(outputVec.get(i));
+                output.write("\n");
             }
 
             output.flush();

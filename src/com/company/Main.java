@@ -10,24 +10,24 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        int amount = 1050;
+        int amount = 2000;
         int endAmount = 1000;
 
         // --- LEAVES --- //
         Vector<Object> leaf = new Vector<>();
-        leaf.add(new Object("Default",50));
-        leaf.add(new Object("Pine",30));
-        leaf.add(new Object("Spread",10));
-        leaf.add(new Object("Palm",10));
+        leaf.add(new Object("Default",51));
+        leaf.add(new Object("Pine",24));
+        leaf.add(new Object("Spread",12));
+        leaf.add(new Object("Palm",13));
 
         Vector<String> endLeaf = getEnd(leaf,amount);
 
         // --- SCAMFRUITS --- //
         Vector<Object> scamFruits = new Vector<>();
         scamFruits.add(new Object("Empty",35));
-        scamFruits.add(new Object("Apples",15));
-        scamFruits.add(new Object("Coconuts",15));
-        scamFruits.add(new Object("Bananarama",15));
+        scamFruits.add(new Object("Apples",19));
+        scamFruits.add(new Object("Coconuts",14));
+        scamFruits.add(new Object("Bananarama",12));
         scamFruits.add(new Object("Peaches",10));
         scamFruits.add(new Object("Flowers",7));
         scamFruits.add(new Object("X-Mas",3));
@@ -36,16 +36,16 @@ public class Main {
 
         // --- ISLANDS --- //
         Vector<Object> islands = new Vector<>();
-        islands.add(new Object("type1",50));
+        islands.add(new Object("type1",61));
         islands.add(new Object("type2",25));
-        islands.add(new Object("type3",25));
+        islands.add(new Object("type3",14));
 
         Vector<String> endIslands = getEnd(islands, amount);
 
         // --- DIRT COLORS --- //
         Vector<Object> dirtColors = new Vector<>();
-        dirtColors.add(new Object("Brown#8B4513",50));
-        dirtColors.add(new Object("DimGray#696969",30));
+        dirtColors.add(new Object("Brown#8B4513",57));
+        dirtColors.add(new Object("DimGray#696969",23));
         dirtColors.add(new Object("Icy#E0FFFF",12));
         dirtColors.add(new Object("OliveDrab#6B8E23",8));
 
@@ -57,8 +57,7 @@ public class Main {
         plantColors.add(new Object("Crimson#DC143C",7));
         plantColors.add(new Object("DarkRed#8B0000",6));
 
-        plantColors.add(new Object("Lime#32CD32",11));
-        plantColors.add(new Object("Green#008000",9));
+        plantColors.add(new Object("Green#008000",20));
 
         plantColors.add(new Object("Teal#008080",11));
         plantColors.add(new Object("Aquamarine#66CDAA",9));
@@ -79,24 +78,39 @@ public class Main {
         leavesColors.add(new Object("Crimson#DC143C",7));
         leavesColors.add(new Object("DarkRed#8B0000",6));
 
-        leavesColors.add(new Object("Lime#32CD32",11));
-        leavesColors.add(new Object("Green#008000",9));
+        leavesColors.add(new Object("Green#008000",20));
 
         leavesColors.add(new Object("Teal#008080",11));
         leavesColors.add(new Object("Aquamarine#66CDAA",9));
 
+        //BlueViolet 8A2BE2
         leavesColors.add(new Object("Indigo#4B0082",11));
         leavesColors.add(new Object("Orchid#DA70D6",7));
         leavesColors.add(new Object("Lime#32CD32",6));
 
         leavesColors.add(new Object("Gold#FF8C00",4));
         leavesColors.add(new Object("Silver#A9A9A9",4));
-        leavesColors.add(new Object("Chocolate#A0522D",4));
+        leavesColors.add(new Object("Chocolate#A0522D",4));// 89
 
         Vector<String> endLeavesColors = getEnd(leavesColors, amount);
 
         // --- BACKGROUND COLORS --- //
-        Vector<Object> backgroundColors = leavesColors;
+        Vector<Object> backgroundColors = new Vector<>();
+        backgroundColors.add(new Object("PeachPuff#FFDAB9",20));
+        backgroundColors.add(new Object("Teal#008080",17));
+        backgroundColors.add(new Object("Aquamarine#66CDAA",32));
+
+        //backgroundColors.add(new Object("Salmon#FA8072",11));
+        //backgroundColors.add(new Object("Crimson#DC143C",7));
+
+        backgroundColors.add(new Object("Plum#DDA0DD",20));
+
+
+        backgroundColors.add(new Object("Orchid#DA70D6",7));
+        backgroundColors.add(new Object("Lime#32CD32",3));
+        backgroundColors.add(new Object("Black#000000",1));
+        //backgroundColors.add(new Object("Gold#FF8C00",4)); поменять на нормальный золотой, монотонный цвет не работает
+        //backgroundColors.add(new Object("Silver#A9A9A9",4)); сейм
         Vector<String> endBackgroundColors  = getEnd(backgroundColors, amount);
 
         getOutput(endLeaf,endScamFruits,endDirtColors,endPlantColors,endLeavesColors,endBackgroundColors,endIslands,amount,endAmount);

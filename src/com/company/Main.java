@@ -175,7 +175,7 @@ public class Main {
 
             output.flush();
         } catch (IOException ex) {
-            System.out.println(ex.getMessage());
+            ex.printStackTrace();
         }
     }
 }

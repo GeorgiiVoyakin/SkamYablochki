@@ -114,16 +114,24 @@ public class Main {
         //backgroundColors.add(new Object("Silver#A9A9A9",4)); сейм
         List<String> endBackgroundColors  = getEnd(backgroundColors, amount);
 
-        getOutput(endLeaf,endScamFruits,endDirtColors,endPlantColors,endLeavesColors,endBackgroundColors,endIslands,amount,endAmount);
+        getOutput(endLeaf,
+                endScamFruits,
+                endDirtColors,
+                endPlantColors,
+                endLeavesColors,
+                endBackgroundColors,
+                endIslands,
+                amount,
+                endAmount);
     }
 
     public static List<String> getEnd(List<Object> input, int amount){
         List<String> end = new ArrayList<>();
 
-        for(int i=0;i<input.size();i++){
-            float howMuch = (input.get(i).getChance() * amount) / 100;
-            for (int j=0;j<howMuch;j++){
-                end.add(input.get(i).getName());
+        for (Object object : input) {
+            float howMuch = (object.getChance() * amount) / 100;
+            for (int j = 0; j < howMuch; j++) {
+                end.add(object.getName());
             }
         }
 
@@ -133,11 +141,15 @@ public class Main {
         return end;
     }
 
-    public static void getOutput(List<String> endLeaf, List<String> endScamFruits,
-                                 List<String> endDirtColors, List<String> endPlantColors,
-                                 List<String> endLeavesColors,List<String> endBackgroundColors,
+    public static void getOutput(List<String> endLeaf,
+                                 List<String> endScamFruits,
+                                 List<String> endDirtColors,
+                                 List<String> endPlantColors,
+                                 List<String> endLeavesColors,
+                                 List<String> endBackgroundColors,
                                  List<String> endIslands,
-                                 int amount,int endAmount) {
+                                 int amount,
+                                 int endAmount) {
 
         try (FileWriter output = new FileWriter("output.txt", false)) {
             List<String> outputVec = new ArrayList<>();
@@ -147,7 +159,7 @@ public class Main {
                         endLeavesColors.get(i) + " " + endBackgroundColors.get(i));
             }
 
-            LinkedHashSet<String> outputVec2 = new LinkedHashSet<String>( outputVec );
+            LinkedHashSet<String> outputVec2 = new LinkedHashSet<>(outputVec);
 
             //clear the List
             outputVec.clear();

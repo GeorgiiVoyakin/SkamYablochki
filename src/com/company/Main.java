@@ -6,6 +6,7 @@ import java.awt.*;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
+import java.util.List;
 
 public class Main {
 
@@ -14,16 +15,16 @@ public class Main {
         int endAmount = 1000;
 
         // --- LEAVES --- //
-        Vector<Object> leaf = new Vector<>();
+        List<Object> leaf = new ArrayList<>();
         leaf.add(new Object("Default",51));
         leaf.add(new Object("Pine",24));
         leaf.add(new Object("Spread",12));
         leaf.add(new Object("Palm",13));
 
-        Vector<String> endLeaf = getEnd(leaf,amount);
+        List<String> endLeaf = getEnd(leaf,amount);
 
         // --- SCAMFRUITS --- //
-        Vector<Object> scamFruits = new Vector<>();
+        List<Object> scamFruits = new ArrayList<>();
         scamFruits.add(new Object("Empty",35));
         scamFruits.add(new Object("Apples",19));
         scamFruits.add(new Object("Coconuts",14));
@@ -32,27 +33,27 @@ public class Main {
         scamFruits.add(new Object("Flowers",7));
         scamFruits.add(new Object("X-Mas",3));
 
-        Vector<String> endScamFruits = getEnd(scamFruits, amount);
+        List<String> endScamFruits = getEnd(scamFruits, amount);
 
         // --- ISLANDS --- //
-        Vector<Object> islands = new Vector<>();
+        List<Object> islands = new ArrayList<>();
         islands.add(new Object("type1",61));
         islands.add(new Object("type2",25));
         islands.add(new Object("type3",14));
 
-        Vector<String> endIslands = getEnd(islands, amount);
+        List<String> endIslands = getEnd(islands, amount);
 
         // --- DIRT COLORS --- //
-        Vector<Object> dirtColors = new Vector<>();
+        List<Object> dirtColors = new ArrayList<>();
         dirtColors.add(new Object("Brown#8B4513",57));
         dirtColors.add(new Object("DimGray#696969",23));
         dirtColors.add(new Object("Icy#E0FFFF",12));
         dirtColors.add(new Object("OliveDrab#6B8E23",8));
 
-        Vector<String> endDirtColors = getEnd(dirtColors, amount);
+        List<String> endDirtColors = getEnd(dirtColors, amount);
 
         // --- PLANT COLORS --- //
-        Vector<Object> plantColors = new Vector<>();
+        List<Object> plantColors = new ArrayList<>();
         plantColors.add(new Object("Salmon#FA8072",11));
         plantColors.add(new Object("Crimson#DC143C",7));
         plantColors.add(new Object("DarkRed#8B0000",6));
@@ -70,10 +71,10 @@ public class Main {
         plantColors.add(new Object("Silver#A9A9A9",4));
         plantColors.add(new Object("Chocolate#A0522D",4));
 
-        Vector<String> endPlantColors = getEnd(plantColors, amount);
+        List<String> endPlantColors = getEnd(plantColors, amount);
 
         // --- LEAVES COLORS --- //
-        Vector<Object> leavesColors = new Vector<>();
+        List<Object> leavesColors = new ArrayList<>();
         leavesColors.add(new Object("Salmon#FA8072",11));
         leavesColors.add(new Object("Crimson#DC143C",7));
         leavesColors.add(new Object("DarkRed#8B0000",6));
@@ -92,10 +93,10 @@ public class Main {
         leavesColors.add(new Object("Silver#A9A9A9",4));
         leavesColors.add(new Object("Chocolate#A0522D",4));// 89
 
-        Vector<String> endLeavesColors = getEnd(leavesColors, amount);
+        List<String> endLeavesColors = getEnd(leavesColors, amount);
 
         // --- BACKGROUND COLORS --- //
-        Vector<Object> backgroundColors = new Vector<>();
+        List<Object> backgroundColors = new ArrayList<>();
         backgroundColors.add(new Object("PeachPuff#FFDAB9",20));
         backgroundColors.add(new Object("Teal#008080",17));
         backgroundColors.add(new Object("Aquamarine#66CDAA",32));
@@ -111,13 +112,13 @@ public class Main {
         backgroundColors.add(new Object("Black#000000",1));
         //backgroundColors.add(new Object("Gold#FF8C00",4)); поменять на нормальный золотой, монотонный цвет не работает
         //backgroundColors.add(new Object("Silver#A9A9A9",4)); сейм
-        Vector<String> endBackgroundColors  = getEnd(backgroundColors, amount);
+        List<String> endBackgroundColors  = getEnd(backgroundColors, amount);
 
         getOutput(endLeaf,endScamFruits,endDirtColors,endPlantColors,endLeavesColors,endBackgroundColors,endIslands,amount,endAmount);
     }
 
-    public static Vector<String> getEnd(Vector<Object> input, int amount){
-        Vector<String> end = new Vector<>();
+    public static List<String> getEnd(List<Object> input, int amount){
+        List<String> end = new ArrayList<>();
 
         for(int i=0;i<input.size();i++){
             float howMuch = (input.get(i).getChance() * amount) / 100;
@@ -132,14 +133,14 @@ public class Main {
         return end;
     }
 
-    public static void getOutput(Vector<String> endLeaf, Vector<String> endScamFruits,
-                                 Vector<String> endDirtColors, Vector<String> endPlantColors,
-                                 Vector<String> endLeavesColors,Vector<String> endBackgroundColors,
-                                 Vector<String> endIslands,
+    public static void getOutput(List<String> endLeaf, List<String> endScamFruits,
+                                 List<String> endDirtColors, List<String> endPlantColors,
+                                 List<String> endLeavesColors,List<String> endBackgroundColors,
+                                 List<String> endIslands,
                                  int amount,int endAmount) {
 
         try (FileWriter output = new FileWriter("output.txt", false)) {
-            Vector<String> outputVec = new Vector<>();
+            List<String> outputVec = new ArrayList<>();
             for (int i=0;i<amount;i++){
                 outputVec.add(endLeaf.get(i) + " " + endScamFruits.get(i) + " " + endIslands.get(i) + " " +
                         endDirtColors.get(i) + " " + endPlantColors.get(i) + " " +
@@ -148,10 +149,10 @@ public class Main {
 
             LinkedHashSet<String> outputVec2 = new LinkedHashSet<String>( outputVec );
 
-            //clear the vector
+            //clear the List
             outputVec.clear();
 
-            //add all unique elements back to the vector
+            //add all unique elements back to the List
             outputVec.addAll(outputVec2);
 
             int b = 1+1;
